@@ -1,0 +1,2269 @@
+@media screen and (max-width: 900px){ 
+    body{
+     background: #FFF0E5;
+     }
+    .clar{
+        position: sticky;
+        top: 0px;
+    z-index: 1000;
+        background: #FFF0E5;
+    }
+ .babi .loo{
+     display: none;
+ }
+ .chee{
+    margin: 0px 30px  
+  }
+       .babi{
+       padding: 25px 0px;
+        margin: 0px 30px ;
+     }
+    .babi .gaji{
+         position: absolute;
+         right: 30px;
+         top: 15px;
+     }
+ .gaji ul>li{
+     display: inline;
+     padding-right: 15px;
+ }
+ .babi .gaji a.kolu{
+         display: none;
+     }
+ .babi .gaji a.kola{
+         color: blue;
+         font-weight: bold;
+      padding: 10px
+     }
+     .babi .gaji a.kola:hover{
+        text-decoration: none;
+        background: rgb(230,230,235);
+        border-radius: 3px;
+        padding: 10px;
+     }
+ .babi .gaji button.goo{
+     border: none;
+     background: none;
+     width: fit-content;
+     padding: 10px 12px;
+      border-radius: 3px;
+ }
+ .babi .gaji button.goo:hover{
+    background: rgb(230,230,235);
+ }
+    .clara{
+       width: 400px;
+        margin: 0px auto;
+    }
+    .gos{
+        height: 230px;
+        width: 80%;
+background-image: url(img/bigwoman.webp) ;
+background-repeat: no-repeat;
+background-size: cover; 
+box-shadow: -15px 15px 0px black;
+margin: 0px auto;
+        outline: 1px solid black;
+        padding: 0px 20px;
+    }
+ .gewe{
+     margin: 0px auto;
+      font-family: "Calibri", sans-serif;
+     padding: 0px 20px
+ }
+ .gewe .gree{
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+ }
+ .gewe input{
+    height: 50px;
+     width: 100%;
+ }
+    .gewe label{
+        font-size: 19px;
+        font-weight: 100;
+        color: black;
+    }
+      .goes{
+        display: none;
+     }
+    .gewe .get{
+         font-weight: bold;
+         border: none;
+         background: rgb(19,19,228);
+         color: white;
+         font-size: 15px;
+         font-family: sans-serif;
+         padding: 10px 18px;
+         border-radius: 5px;
+     }
+     .gewe .get:hover{
+          background: rgb(36,36,249);
+     }
+     .gewe .gown{
+         font-family: sans-serif;
+         font-size: 13.5px;
+     }
+     .gewe .gown a{
+         text-decoration: underline;
+         color: rgb(36,36,249);
+     }
+     .gewe .gotten{
+         color: rgb(45,44,44);
+         font-weight: bold;
+         font-size: 16px;
+     }
+     .gewe .grat{
+         width: fit-content;
+     }
+     .gewe .grat li{
+         display: inline;
+         margin: 0px 4px;
+     }
+     .gewe .grat li a{
+         border-radius: 2px;
+         padding: 17px 23px;
+         border: 1px solid black;
+         color: black;
+         font-size: 18px
+     }
+     .gewe .grat li a:hover{
+         background: rgb(230,230,235);
+     }
+           
+    .maid{
+        display: none;
+     }
+    .amidat .gban{
+         color: black;
+         font-size: 37px;
+         font-weight: bold;
+         font-family: sans-serif;
+     }
+     .amidat .cardio{
+         padding: 20px 0px;
+         transition: padding 0.3s ease-in-out;
+     }
+     .amidat .cardiac{
+         border-bottom: 1px solid black;
+     }
+     .amidat .card-header{
+         background: none;
+         color: black;
+         font-size: 21px;
+          padding: 10px 0px;
+          border-bottom: none;
+         font-weight: bold;
+         font-family: sans-serif;
+         
+     }
+     #seun .collapse{
+         font-size: 15px;
+         color: black;
+         padding-right: 80px;
+     }
+           
+         
+           
+    .gadi{
+         padding: 0px 10px;
+     }
+     .mad .ciga a{
+         color: blue;
+         text-decoration: none;
+         font-weight: bold;
+         padding: 12px 15px;
+     }
+     .mad .ciga a:hover{
+         background: rgb(230,230,235);
+         border-radius: 5px;
+     }
+     .mad .tolani{
+         display: inline-block;
+         background: white;
+         margin: 20px 0px;
+         border: 1px solid black;
+         padding: 60px 0px 60px 40px;
+         width: 100%;
+         transition: box-shadow 0.2s ease-in-out
+     }
+     .mad .tolani:hover{
+         box-shadow: -8px 8px 0px  black;
+     }
+     .mad .tolani .dami{
+         color: black;
+        font-size: 15px;
+     }
+     .mad .tolani .dam{
+         color: black;
+         font-size: 20px;
+         font-weight: bold
+     }
+           
+           
+           
+    .kemi{
+         background: #10162F;
+         padding: 20px 0px 30px 0px;
+     }
+     .carf .gettin{
+         font-size: 45px;
+         color: white;
+         font-weight: bold
+     }
+    .carf .gettat{
+        padding: 10px 0px   
+           }
+     .carf .gettat img{ 
+       width: 100%;
+         height: 290px;
+     }
+     .carf .gettit li{
+         list-style-type: none;
+         color: white;
+         font-family: monospace;
+         font-size: 20px;
+         margin: 0px 0px 20px 0px;
+         width: 100%;
+         padding: 5px 8px;
+     }
+     .carf .gettit li.doings{
+         background: #3A10E5;
+     }
+     .carf .gettit li:hover{
+         background: #3A10E5;
+         cursor: pointer;
+     }
+    
+    
+    
+    .keji{
+         padding: 50px 0px;
+          color: black;
+     }
+     .emma .iyawo{
+        font-weight: bold;
+         font-size: 33px;
+         font-family: sans-serif;
+     }
+     .emma .iya .wale{
+         width: fit-content;
+         font-size: 17px;
+         letter-spacing: 0.5px
+     }
+     .emma .ayomi{
+         display: none
+     }
+     
+    
+     .tobi a{
+         color: black;
+     }
+     .tobi a:hover{
+         text-decoration: none
+     }
+     .tobi .tole{
+         margin: 20px 0px;
+     }
+     .tobi .tole:hover a{
+         color: blue;
+     }
+     .tobi .gbogbo img{
+         width: 100%;
+             border: 1px solid blue
+     }
+     .tobi .abga{
+          width: 70%;
+         font-size: 20px;
+         font-weight: bold;
+     }
+      .tobi .timba{
+          width: 70%;
+         font-size: 17px;
+          font-family: monospace;
+     }
+    .emma .ayom{
+         width: fit-content;
+     }
+     .emma .ayom a{
+         text-decoration:  none;
+         color: blue;
+         font-weight: bold;
+         font-size: 15px;
+         padding: 10px;
+     }
+     .emma .ayom a:hover{
+          background: rgb(220,220,221);
+         border-radius: 3px
+     }
+    /*      the purple part */
+     .kare{
+         background: #3A10E5;
+         color: white;
+     } 
+     .chai{
+         padding: 50px 0px;
+     }
+     .chai>div{
+        display: inline-block;
+         margin-left: 50px;
+     }
+     .chai .dave{
+         width: 32%;
+         font-size: 39px;
+         font-weight: bold
+     }
+    
+     .chai .tofunmi>div{
+         text-align: center;
+         margin: 0px 20px
+     }
+     .chai .bamtee{
+         font-size: 35px;
+     }
+     .chai li{
+         font-size: 16px;
+         list-style-type: none;
+         font-weight: bold;
+     }
+/*     the yellow part */
+     .dele{
+         background: #FFD300;
+     }
+     .dele .chee{
+         margin-left: 50px;
+         padding: 50px 0px
+     }
+     .dele .deli{
+         width: fit-content;
+         float: right;
+         margin: 50px 0px 0px 0px;
+     }
+     .dele .fola{
+         width: 30%;
+     }
+     .dele .fola .maami{
+         color: rgb(34,34,34);
+         font-weight: bold;
+         font-size: 43px;
+         line-height: 45px;
+         font-family: sans-serif;
+     }
+     .dele .fola .omaya{
+         color: black;
+         font-family: sans-serif;
+         letter-spacing: 0.5px;
+         font-size: 15px
+     }
+     .dele .fola .orobo button{
+         border: none;
+         background: #4523f3;
+         padding: 8px 10px; 
+         border-radius: 3px
+     }
+     .dele .fola .orobo button:hover{
+         background: #5131F2
+     }
+     .dele .fola .orobo a{
+         color: white;
+         font-weight: bold;
+         font-size: 16px;
+         text-decoration: none
+     }
+    /*      the google part */
+     .ini{
+         background: #10162F;
+         color: white;
+         padding: 50px 0px
+     }
+     .ini .chee{
+         margin: 0px 50px
+     }@media screen and (max-width: 900px){ 
+        body{
+         background: #FFF0E5;
+         }
+        .clar{
+            position: sticky;
+            top: 0px;
+        z-index: 1000;
+            background: #FFF0E5;
+        }
+        #golden{
+            background: #3813cf;
+            width: 40%;
+            position: fixed;
+            top: 100px;
+            border-radius: 5px;
+            padding: 10px 20px 10px 10px;
+        }
+        #golden li{
+            list-style-type: none;
+            padding: 5px 0px;
+        }
+            #golden li a{
+                color: white;
+                text-decoration: none;
+                font-weight: bold;
+            }
+     .babi .loo{
+         display: none;
+     }
+     .chee{
+        margin: 0px 30px  
+      }
+           .babi{
+           padding: 25px 0px;
+            margin: 0px 30px ;
+         }
+        .babi .gaji{
+             position: absolute;
+             right: 30px;
+             top: 15px;
+         }
+     .gaji ul>li{
+         display: inline;
+         padding-right: 15px;
+     }
+     .babi .gaji a.kolu{
+             display: none;
+         }
+     .babi .gaji a.kola{
+             color: blue;
+             font-weight: bold;
+          padding: 10px
+         }
+         .babi .gaji a.kola:hover{
+            text-decoration: none;
+            background: rgb(230,230,235);
+            border-radius: 3px;
+            padding: 10px;
+         }
+     .babi .gaji button.goo{
+         border: none;
+         background: none;
+         width: fit-content;
+         padding: 10px 12px;
+          border-radius: 3px;
+     }
+     .babi .gaji button.goo:hover{
+        background: rgb(230,230,235);
+     }
+        .clara{
+           width: 400px;
+            margin: 0px auto;
+        }
+        .gos{
+            height: 230px;
+            width: 80%;
+    background-image: url(img/bigwoman.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    box-shadow: -15px 15px 0px black;
+    margin: 0px auto;
+            outline: 1px solid black;
+            padding: 0px 20px;
+        }
+     .gewe{
+         margin: 0px auto;
+          font-family: "Calibri", sans-serif;
+         padding: 0px 20px
+     }
+     .gewe .gree{
+        font-size: 25px;
+        color: black;
+        font-weight: bold;
+     }
+     .gewe input{
+        height: 50px;
+         width: 100%;
+     }
+        .gewe label{
+            font-size: 19px;
+            font-weight: 100;
+            color: black;
+        }
+          .goes{
+            display: none;
+         }
+        .gewe .get{
+             font-weight: bold;
+             border: none;
+             background: rgb(19,19,228);
+             color: white;
+             font-size: 15px;
+             font-family: sans-serif;
+             padding: 10px 18px;
+             border-radius: 5px;
+         }
+         .gewe input:focus{
+            outline: none;
+         }
+         .gewe .get:hover{
+              background: rgb(36,36,249);
+         }
+         .gewe .gown{
+             font-family: sans-serif;
+             font-size: 13.5px;
+         }
+         .gewe .gown a{
+             text-decoration: underline;
+             color: rgb(36,36,249);
+         }
+         .gewe .gotten{
+             color: rgb(45,44,44);
+             font-weight: bold;
+             font-size: 16px;
+         }
+         .gewe .grat{
+             width: fit-content;
+         }
+         .gewe .grat li{
+             display: inline;
+             margin: 0px 4px;
+         }
+         .gewe .grat li a{
+             border-radius: 2px;
+             padding: 17px 23px;
+             border: 1px solid black;
+             color: black;
+             font-size: 18px
+         }
+         .gewe .grat li a:hover{
+             background: rgb(230,230,235);
+         }
+               
+        .maid{
+            display: none;
+         }
+        .amidat .gban{
+             color: black;
+             font-size: 37px;
+             font-weight: bold;
+             font-family: sans-serif;
+         }
+         .amidat .cardio{
+             padding: 20px 0px;
+             transition: padding 0.3s ease-in-out;
+         }
+         .amidat .cardiac{
+             border-bottom: 1px solid black;
+         }
+         .amidat .card-header{
+             background: none;
+             color: black;
+             font-size: 21px;
+              padding: 10px 0px;
+              border-bottom: none;
+             font-weight: bold;
+             font-family: sans-serif;
+             
+         }
+         #seun .collapse{
+             font-size: 15px;
+             color: black;
+             padding-right: 80px;
+         }
+               
+             
+               
+        .gadi{
+             padding: 0px 10px;
+         }
+         .mad .ciga a{
+             color: blue;
+             text-decoration: none;
+             font-weight: bold;
+             padding: 12px 15px;
+         }
+         .mad .ciga a:hover{
+             background: rgb(230,230,235);
+             border-radius: 5px;
+         }
+         .mad .tolani{
+             display: inline-block;
+             background: white;
+             margin: 20px 0px;
+             border: 1px solid black;
+             padding: 60px 0px 60px 40px;
+             width: 100%;
+             transition: box-shadow 0.2s ease-in-out
+         }
+         .mad .tolani:hover{
+             box-shadow: -8px 8px 0px  black;
+         }
+         .mad .tolani .dami{
+             color: black;
+            font-size: 15px;
+         }
+         .mad .tolani .dam{
+             color: black;
+             font-size: 20px;
+             font-weight: bold
+         }
+               
+               
+               
+        .kemi{
+             background: #10162F;
+             padding: 20px 0px 30px 0px;
+         }
+         .carf .gettin{
+             font-size: 45px;
+             color: white;
+             font-weight: bold
+         }
+        .carf .gettat{
+            padding: 10px 0px   
+               }
+         .carf .gettat img{ 
+           width: 100%;
+             height: 290px;
+         }
+         .carf .gettit li{
+             list-style-type: none;
+             color: white;
+             font-family: monospace;
+             font-size: 20px;
+             margin: 0px 0px 20px 0px;
+             width: 100%;
+             padding: 5px 8px;
+         }
+         .carf .gettit li.doings{
+             background: #3A10E5;
+         }
+         .carf .gettit li:hover{
+             background: #3A10E5;
+             cursor: pointer;
+         }
+        
+        
+        
+        .keji{
+             padding: 50px 0px;
+              color: black;
+         }
+         .emma .iyawo{
+            font-weight: bold;
+             font-size: 33px;
+             font-family: sans-serif;
+         }
+         .emma .iya .wale{
+             width: fit-content;
+             font-size: 17px;
+             letter-spacing: 0.5px
+         }
+         .emma .ayomi{
+             display: none
+         }
+         
+        
+         .tobi a{
+             color: black;
+         }
+         .tobi a:hover{
+             text-decoration: none
+         }
+         .tobi .tole{
+             margin: 20px 0px;
+         }
+         .tobi .tole:hover a{
+             color: blue;
+         }
+         .tobi .gbogbo img{
+             width: 100%;
+                 border: 1px solid blue
+         }
+         .tobi .abga{
+              width: 70%;
+             font-size: 20px;
+             font-weight: bold;
+         }
+          .tobi .timba{
+              width: 70%;
+             font-size: 17px;
+              font-family: monospace;
+         }
+        .emma .ayom{
+             width: fit-content;
+         }
+         .emma .ayom a{
+             text-decoration:  none;
+             color: blue;
+             font-weight: bold;
+             font-size: 15px;
+             padding: 10px;
+         }
+         .emma .ayom a:hover{
+              background: rgb(220,220,221);
+             border-radius: 3px
+         }
+        /*      the purple part */
+         .kare{
+             background: #3A10E5;
+             color: white;
+         } 
+         .chai{
+             padding: 50px 0px;
+         }
+         .chai>div{
+            display: inline-block;
+             margin-left: 50px;
+         }
+         .chai .dave{
+             width: 32%;
+             font-size: 39px;
+             font-weight: bold
+         }
+        
+         .chai .tofunmi>div{
+             text-align: center;
+             margin: 0px 20px
+         }
+         .chai .bamtee{
+             font-size: 35px;
+         }
+         .chai li{
+             font-size: 16px;
+             list-style-type: none;
+             font-weight: bold;
+         }
+    /*     the yellow part */
+         .dele{
+             background: #FFD300;
+         }
+         .dele .chee{
+             margin-left: 50px;
+             padding: 50px 0px
+         }
+         .dele .deli{
+             width: fit-content;
+             float: right;
+             margin: 50px 0px 0px 0px;
+         }
+         .dele .fola{
+             width: 30%;
+         }
+         .dele .fola .maami{
+             color: rgb(34,34,34);
+             font-weight: bold;
+             font-size: 43px;
+             line-height: 45px;
+             font-family: sans-serif;
+         }
+         .dele .fola .omaya{
+             color: black;
+             font-family: sans-serif;
+             letter-spacing: 0.5px;
+             font-size: 15px
+         }
+         .dele .fola .orobo button{
+             border: none;
+             background: #4523f3;
+             padding: 8px 10px; 
+             border-radius: 3px
+         }
+         .dele .fola .orobo button:hover{
+             background: #5131F2
+         }
+         .dele .fola .orobo a{
+             color: white;
+             font-weight: bold;
+             font-size: 16px;
+             text-decoration: none
+         }
+        /*      the google part */
+         .ini{
+             background: #10162F;
+             color: white;
+             padding: 50px 0px
+         }
+         .ini .chee{
+             margin: 0px 50px
+         }
+         .ini .raji{
+             font-family: monospace;
+             font-size: 18px;
+              width: 33%
+         }
+         .ini .fawas{
+             font-size: 43px;
+             font-weight: bold;
+              width: 33%
+         }
+         .ini .dad{
+             font-size: 15px;
+              width: 33%
+         }
+        .dandi .mira{
+            width: 50%
+        }
+         .dandi .mira button{
+             background: #FFD300;
+             padding: 9px 15px;
+             border: none;
+             border-radius: 4px
+         }
+         .dandi .mira button:hover{
+             background: #c6a505;
+         }
+         .dandi .mira a{
+             width: fit-content;
+             text-decoration: none;
+           
+             color: black;
+             font-weight: bold;
+         }
+        
+        /*      black and white */
+         .femi {
+             background: #3A10E5;
+             color: white
+         }
+         .femi .chee{
+             padding: 90px 0px;
+         }
+         .femi .lionking{
+             float: right;
+             width: 40%;
+             margin-top: -50px
+         }
+        .femi .simba{
+              color: white;
+            font-weight: bold;
+            font-size: 40px
+             }
+         .femi .kiara{
+              color: white;
+            font-size: 15px;
+             font-family: sans-serif
+             }
+         .femi .mufasa button{
+             background: #FFD300;
+             border: none;
+             border-radius: 3px;
+             padding: 8px 16px
+         }
+         .femi .mufasa button:hover{
+             background: #c8a603;
+         }
+         .femi .mufasa button a{
+             color: black;
+             font-weight: bold;
+             font-family: sans-serif;
+             text-decoration: none;
+         }
+         .femi .china{
+             width: 50%;
+         }
+         .femi .china img{
+             width: 100%
+         }
+         .femi .china img.nat {
+             display: none
+         }
+        
+        
+        /*      the google part */
+            .pelf .chee{
+             padding: 20px 0px
+         }
+        .pelf .chee .col-sm-4{
+            width: fit-content
+        }
+         .wahab .segzy{
+             color: black;
+             font-size: 14px
+         }
+        .wahab .seg>li{
+           display: inline;
+            margin: 0px 20px
+         }
+         .wahab .seg img{
+             width:  30%;
+         }
+         .wahab .strigx>li{
+             list-style-type: none;
+             padding: 5px 0px;
+             color: black;
+             font-size: 14px;
+         }
+         .wahab .strigx>li a{
+             color: black;
+             text-decoration: none;
+         }
+         .wahab .strigx>li a:hover{
+             color: blue
+         }
+         .wahab .strigx .gbomo>li{
+             display: inline;
+             margin: 0px 5px
+         }
+         .wahab .strigx .gbomo i{
+             font-size: 17px;
+             color: rgb(20,19,19);
+         }
+         .hawal{
+             border-top: 1px solid black;
+             padding-top: 20px
+         }
+         .wahab .tani{
+             color: black;
+             font-weight: bold;
+             font-size: 14px
+         }
+        
+         
+    /*      last paragraph */
+         .mama{
+             border-top: 1px solid black;
+             padding: 20px 0px;
+             text-align: center
+         }
+         .razy{
+             width: fit-content;
+         }
+         .razy a{ 
+             color: black;
+             text-decoration: none;
+          }
+         .razy a:hover{
+            color:  #3A10E5;
+         }
+         .razy>div{
+             display: inline;
+             padding: 0px 5px
+         }
+         .razy .julie{
+             border-left: 1px solid black;
+         }
+     .caut{
+            color:  #3A10E5;
+             font-weight: bold;
+             text-align: center;
+             font-size: 17px
+         }
+    }
+     @media screen and (min-width:900px){
+     body{
+         background: #FFF0E5;
+         }
+         .chee{
+           margin: 0px 100px ;  
+         }
+          .clar{
+            position: sticky;
+            top: 0px;
+            z-index: 1000;
+            background: #FFF0E5;
+        }
+         .chee .ordi{
+             display: none
+         }
+          #golden .loo{
+            display: none;
+        }
+         .babi{
+           padding: 25px 0px;
+         }
+         .babi ul>li{
+             display: inline;
+             padding-right: 15px; 
+             font-size: 15px;
+         }
+         .babi ul>li a{
+             color: black;
+         }
+         .babi ul>li a:hover{
+             text-decoration: none;
+            color: blue;
+         }
+         .babi .gaji{
+             position: absolute;
+             right: 100px;
+             top: 30px;
+         }
+         .babi .gaji a{
+             padding: 10px;
+         }
+         .babi .gaji a.kolu{
+             color: black;
+             font-size: 20px
+         }
+         .babi .gaji a.kolu:hover{
+            text-decoration: none;
+            background: rgb(230,230,235);
+             border-radius: 5px
+         }
+         .babi .gaji a.kola{
+             color: blue;
+             font-weight: bold;
+         }
+         .babi .gaji a.kola:hover{
+            text-decoration: none;
+             background: rgb(230,230,235);
+             border-radius: 5px
+         }
+         .gaji .goo{
+             display: none;
+         }
+    
+         
+           .goes{
+        height: 400px;
+        width: 40%;
+        background-image: url(img/bigwoman.webp) ;
+        background-repeat: no-repeat;
+        background-size: cover; 
+        box-shadow: -20px 20px 0px black;
+        margin: 0px 40px 120px 40px;
+               
+         }
+         .gewe{
+            width: 35%;
+             float: right;
+             margin: 0px 100px;
+         }
+         .gewe .gree{
+            font-size: 25px;
+            color: black;
+            font-weight: bold;
+         }
+         .gewe label{
+             font-size: 19px;
+             font-family: "Calibri", sans-serif;
+             font-weight: 100;
+            color: black;
+         }
+            .gewe input{
+            height: 50px;
+            width: 100%;
+         }
+            .got{
+        position: absolute;
+         }
+         .gewe .get{
+             font-weight: bold;
+             border: none;
+             background: rgb(19,19,228);
+             color: white;
+             font-size: 15px;
+             font-family: sans-serif;
+             padding: 10px 18px;
+             border-radius: 5px;
+         }
+         .gewe .get:hover{
+              background: rgb(36,36,249);
+         }
+         .gewe .gown{
+             font-family: sans-serif;
+             font-size: 13.5px;
+         }
+         .gewe .gown a{
+             text-decoration: underline;
+             color: rgb(36,36,249);
+         }
+         .gewe .gotten{
+             color: rgb(45,44,44);
+             font-weight: bold;
+             font-size: 16px;
+         }
+         .gewe .grat{
+             width: fit-content;
+         }
+         .gewe .grat li{
+             display: inline;
+             margin: 0px 4px;
+         }
+         .gewe .grat li a{
+             border-radius: 2px;
+             padding: 17px 23px;
+             border: 1px solid black;
+             color: black;
+             font-size: 18px
+         }
+         .gewe .grat li a:hover{
+             background: rgb(230,230,235);
+         }
+         
+        
+    
+         .maid{
+             position: absolute;
+             right: 100px;
+             width: 47%;
+         }
+         .gadi{
+             background: linear-gradient(to right, rgba(230,24,24,0.1), rgba(166,166,219,0.1));
+             padding: 20px 10px
+         }
+         .ciga{
+            float: right;
+             margin: 0px 30px
+         }
+         .ciga a{
+             color: blue;
+             text-decoration: none;
+             font-weight: bold;
+             padding: 12px 15px;
+         }
+         .ciga a:hover{
+             background: rgb(230,230,235);
+             border-radius: 5px;
+         }
+         .maid .tolani{
+             display: inline-block;
+             background: white;
+             margin: 20px 20px;
+             border: 1px solid black;
+             padding: 60px 0px 60px 40px;
+             width: 40%;
+             transition: box-shadow 0.2s ease-in-out
+         }
+         .maid .tolani:hover{
+             box-shadow: -8px 8px 0px  black;
+         }
+         .maid .tolani .dami{
+             color: black;
+            font-size: 15px;
+         }
+         .maid .tolani .dam{
+             color: black;
+             font-size: 20px;
+             font-weight: bold
+         }
+          .mad{
+            display: none;
+         }
+         
+         .amidat{
+             width: 40%;
+             margin: 0px 10px;
+         }
+         .amidat .gban{
+             color: black;
+             font-size: 37px;
+             font-weight: bold;
+             font-family: sans-serif;
+         }
+         .amidat .cardio{
+             padding: 20px 0px;
+             transition: padding 0.3s ease-in-out;
+         }
+         .amidat .cardiac{
+             border-bottom: 1px solid black;
+         }
+         .amidat .cardio:hover{
+             background: white;
+             padding: 30px 0px 30px 10px;
+         }
+         .amidat .card-header{
+             background: none;
+             color: black;
+             font-size: 25px;
+              padding: 10px 0px;
+              border-bottom: none;
+             font-weight: bold;
+             font-family: sans-serif;
+         }
+         #seun .collapse{
+             font-size: 17px;
+             color: black;
+             padding-right: 80px;
+         }
+         
+         
+         
+         .kemi{
+             background: #10162F;
+             padding: 50px 0px 90px 0px;
+         }
+         .carf .gettin{
+             width: 40%;
+             font-size: 45px;
+             color: white;
+             font-weight: bold
+         }
+         .carf .gettat{
+              position: absolute;
+             right: 150px;
+              width: 37%;
+             margin: 0px 10px;
+         }
+         .carf .gettat img{ 
+           width: 100%;
+             height: 290px;
+         }
+         .carf .gettit{
+             width: 40%;
+         }
+         .carf .gettit li{
+             list-style-type: none;
+             color: white;
+             font-family: monospace;
+             font-size: 20px;
+             margin: 0px 0px 20px 0px;
+             width: 100%;
+             padding: 5px 8px;
+         }
+         .carf .gettit li.doings{
+             background: #3A10E5;
+         }
+         .carf .gettit li:hover{
+             background: #3A10E5;
+             cursor: pointer;
+         }
+        
+         
+         
+         
+         
+         .keji{
+             padding: 50px 0px;
+              color: black;
+         }
+         .emma .iyawo{
+            font-weight: bold;
+             font-size: 36px;
+             font-family: sans-serif;
+         }
+         .emma .iya .wale{
+             width: fit-content;
+             font-size: 16px;
+             letter-spacing: 0.5px
+         }
+         .emma .iya .ayomi{
+             float: right;
+             width: fit-content;
+         }
+         .emma .iya .ayomi a{
+             text-decoration:  none;
+             color: blue;
+             font-weight: bold;
+             font-size: 15px;
+             padding: 10px;
+         }
+         .emma .iya .ayomi a:hover{
+              background: rgb(220,220,221);
+             border-radius: 3px
+         }
+         .tobi{
+             margin: 20px 0px;
+         }
+         .tobi a{
+             color: black;
+         }
+         .tobi a:hover{
+             text-decoration: none
+         }
+         .tobi .tole{
+             display: inline-block;
+             width: 23.6%;
+             margin-right: 12px;
+         }
+         .tobi .tole:hover a{
+             color: blue;
+         }
+         .tobi .gbogbo img{
+             width: 100%;
+                 border: 1px solid blue
+         }
+         .tobi .abga{
+             font-size: 20px;
+             font-weight: bold;
+         }
+          .tobi .timba{
+             font-size: 19px;
+              font-family: monospace;
+         }
+         .emma .ayom{
+             display: none;
+         }
+         
+         
+    /*      the purple part */
+         .kare{
+             background: #3A10E5;
+             color: white;
+         } 
+         .chai{
+             padding: 100px 0px;
+         }
+         .chai>div{
+            display: inline-block;
+             margin-left: 50px;
+         }
+         .chai .dave{
+             width: 30%;
+             font-size: 40px;
+             font-weight: bold
+         }
+         .chai .tofunmi{
+             float: right;
+         }
+         .chai .tofunmi>div{
+             text-align: center;
+             display: inline-block;
+             margin: 0px 20px
+         }
+         .chai .bamtee{
+             font-size: 40px;
+         }
+         .chai li{
+             font-size: 19px;
+             list-style-type: none;
+             font-weight: bold;
+         }
+         
+         
+         /* the yellow part*/
+         .dele{
+             background: #FFD300;
+         }
+         .dele .chee{
+             margin: 0px 150px;
+             padding: 130px 0px
+         }
+         .dele .deli{
+             width: fit-content;
+             float: right;
+             margin: -20px 100px 0px 100px;
+         }
+         .dele .fola{
+             width: 30%;
+         }
+         .dele .fola .maami{
+             color: rgb(34,34,34);
+             font-weight: bold;
+             font-size: 43px;
+             line-height: 45px;
+             font-family: sans-serif;
+         }
+         .dele .fola .omaya{
+             color: black;
+             font-family: sans-serif;
+             letter-spacing: 0.5px;
+             font-size: 15px
+         }
+         .dele .fola .orobo button{
+             border: none;
+             background: #4523f3;
+             padding: 8px 15px; 
+             border-radius: 3px
+         }
+         .dele .fola .orobo button:hover{
+             background: #5131F2
+         }
+         .dele .fola .orobo a{
+             color: white;
+             font-weight: bold;
+             font-size: 16px;
+             text-decoration: none
+         }
+         
+    /*      the google part */
+         .ini{
+             background: #10162F;
+             color: white;
+             padding: 100px 0px
+         }
+         .ini .chee{
+             margin: 0px 150px
+         }
+         .ini .dandi{
+             width: 32%
+         }
+         .ini .raji{
+             font-family: monospace;
+             font-size: 18px
+         }
+         .ini .fawas{
+             font-size: 43px;
+             font-weight: bold;
+         }
+         .ini .dad{
+             font-size: 15px;
+         }
+         .dandi .mira button{
+             background: #FFD300;
+             padding: 9px;
+             border: none;
+             border-radius: 4px
+         }
+         .dandi .mira button:hover{
+             background: #c6a505;
+         }
+         .dandi .mira a{
+             width: fit-content;
+             text-decoration: none;
+            padding: 9px 15px;
+             color: black;
+             font-weight: bold;
+         }
+         
+         
+    /*      black and white */
+         .femi {
+             background: #3A10E5;
+             color: white
+         }
+         .femi .chee{
+             padding: 80px 0px;
+             margin: 0px 150px
+         }
+         .femi .lionking{
+             width: 30%;
+             float: right;
+             margin: 20px 30px 0px 30px
+         }
+        .femi .simba{
+              color: white;
+            font-weight: bold;
+            font-size: 40px
+             }
+         .femi .kiara{
+              color: white;
+            font-size: 15px;
+             font-family: sans-serif
+             }
+         .femi .mufasa button{
+             background: #FFD300;
+             border: none;
+             border-radius: 3px;
+             padding: 8px 16px
+         }
+         .femi .mufasa button:hover{
+             background: #c8a603;
+         }
+         .femi .mufasa button a{
+             color: black;
+             font-weight: bold;
+             font-family: sans-serif;
+             text-decoration: none;
+         }
+         .femi .china{
+             width: 40%;
+         }
+         .femi .china img{
+             width: 100%
+         }
+         .femi .china img.not {
+             display: none
+         }
+         
+    /*      tha last full place */
+         .pelf .chee{
+             padding: 50px 0px
+         }
+         
+         .wahab .segzy{
+             color: black;
+             font-size: 16px
+         }
+         .wahab .strigx img{
+             width: 90%
+         }
+         .wahab .strigx>li{
+             list-style-type: none;
+             padding: 5px 0px;
+             color: black;
+             font-size: 15px;
+         }
+         .wahab .strigx>li a{
+             color: black;
+             text-decoration: none;
+         }
+         .wahab .strigx>li a:hover{
+             color: blue
+         }
+         .wahab .strigx .gbomo>li{
+             display: inline;
+             margin: 0px 5px
+         }
+         .wahab .strigx .gbomo i{
+             font-size: 17px;
+             color: rgb(20,19,19);
+         }
+         .hawal{
+             border-left: 1px solid black;
+             padding: 0px 0px 0px 50px 
+         }
+         .wahab .tani{
+             color: black;
+             font-weight: bold;
+             font-size: 14px
+         }
+         
+         
+    /*      last paragraph */
+         .mama{
+             border-top: 1px solid black;
+             padding: 20px 0px;
+         }
+         .razy{
+             width: fit-content;
+         }
+         .razy a{ 
+             color: black;
+             text-decoration: none;
+          }
+         .razy a:hover{
+            color:  #3A10E5;
+         }
+         .razy>div{
+             display: inline;
+             padding: 0px 5px
+         }
+         .razy .julie{
+             border-left: 1px solid black;
+         }
+         .faith{
+             float: right;
+         }
+         .caut{
+            color:  #3A10E5;
+             font-weight: bold;
+             text-align: center;
+             font-size: 17px
+         }
+    }
+     .ini .raji{
+         font-family: monospace;
+         font-size: 18px;
+          width: 33%
+     }
+     .ini .fawas{
+         font-size: 43px;
+         font-weight: bold;
+          width: 33%
+     }
+     .ini .dad{
+         font-size: 15px;
+          width: 33%
+     }
+    .dandi .mira{
+        width: 50%
+    }
+     .dandi .mira button{
+         background: #FFD300;
+         padding: 9px 15px;
+         border: none;
+         border-radius: 4px
+     }
+     .dandi .mira button:hover{
+         background: #c6a505;
+     }
+     .dandi .mira a{
+         width: fit-content;
+         text-decoration: none;
+       
+         color: black;
+         font-weight: bold;
+     }
+    
+    /*      black and white */
+     .femi {
+         background: #3A10E5;
+         color: white
+     }
+     .femi .chee{
+         padding: 90px 0px;
+     }
+     .femi .lionking{
+         float: right;
+         width: 40%;
+         margin-top: -50px
+     }
+    .femi .simba{
+          color: white;
+        font-weight: bold;
+        font-size: 40px
+         }
+     .femi .kiara{
+          color: white;
+        font-size: 15px;
+         font-family: sans-serif
+         }
+     .femi .mufasa button{
+         background: #FFD300;
+         border: none;
+         border-radius: 3px;
+         padding: 8px 16px
+     }
+     .femi .mufasa button:hover{
+         background: #c8a603;
+     }
+     .femi .mufasa button a{
+         color: black;
+         font-weight: bold;
+         font-family: sans-serif;
+         text-decoration: none;
+     }
+     .femi .china{
+         width: 50%;
+     }
+     .femi .china img{
+         width: 100%
+     }
+     .femi .china img.nat {
+         display: none
+     }
+    
+    
+    /*      the google part */
+        .pelf .chee{
+         padding: 20px 0px
+     }
+    .pelf .chee .col-sm-4{
+        width: fit-content
+    }
+     .wahab .segzy{
+         color: black;
+         font-size: 14px
+     }
+    .wahab .seg>li{
+       display: inline;
+        margin: 0px 20px
+     }
+     .wahab .seg img{
+         width:  30%;
+     }
+     .wahab .strigx>li{
+         list-style-type: none;
+         padding: 5px 0px;
+         color: black;
+         font-size: 14px;
+     }
+     .wahab .strigx>li a{
+         color: black;
+         text-decoration: none;
+     }
+     .wahab .strigx>li a:hover{
+         color: blue
+     }
+     .wahab .strigx .gbomo>li{
+         display: inline;
+         margin: 0px 5px
+     }
+     .wahab .strigx .gbomo i{
+         font-size: 17px;
+         color: rgb(20,19,19);
+     }
+     .hawal{
+         border-top: 1px solid black;
+         padding-top: 20px
+     }
+     .wahab .tani{
+         color: black;
+         font-weight: bold;
+         font-size: 14px
+     }
+    
+     
+/*      last paragraph */
+     .mama{
+         border-top: 1px solid black;
+         padding: 20px 0px;
+         text-align: center
+     }
+     .razy{
+         width: fit-content;
+     }
+     .razy a{ 
+         color: black;
+         text-decoration: none;
+      }
+     .razy a:hover{
+        color:  #3A10E5;
+     }
+     .razy>div{
+         display: inline;
+         padding: 0px 5px
+     }
+     .razy .julie{
+         border-left: 1px solid black;
+     }
+ .caut{
+    color:  rgb(228, 76, 76);
+         font-weight: bold;
+         text-align: center;
+         font-size: 17px
+     }
+}
+ @media screen and (min-width:900px){
+ body{
+     background: #FFF0E5;
+     }
+     .chee{
+       margin: 0px 100px ;  
+     }
+     .chee .ordi{
+         display: none
+     }
+     .babi{
+       padding: 25px 0px;
+        
+     }
+     .babi ul>li{
+         display: inline;
+         padding-right: 15px; 
+         font-size: 15px;
+     }
+     .babi ul>li a{
+         color: black;
+     }
+     .babi ul>li a:hover{
+         text-decoration: none;
+        color: blue;
+     }
+     .babi .gaji{
+         position: absolute;
+         right: 100px;
+         top: 30px;
+     }
+     .babi .gaji a{
+         padding: 10px;
+     }
+     .babi .gaji a.kolu{
+         color: black;
+         font-size: 20px
+     }
+     .babi .gaji a.kolu:hover{
+        text-decoration: none;
+        background: rgb(230,230,235);
+         border-radius: 5px
+     }
+     .babi .gaji a.kola{
+         color: blue;
+         font-weight: bold;
+     }
+     .babi .gaji a.kola:hover{
+        text-decoration: none;
+         background: rgb(230,230,235);
+         border-radius: 5px
+     }
+     .gaji .goo{
+         display: none;
+     }
+
+     
+       .goes{
+    height: 400px;
+    width: 40%;
+    background-image: url(img/bigwoman.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    box-shadow: -20px 20px 0px black;
+    margin: 0px 40px 120px 40px;
+           
+     }
+     .gewe{
+        width: 35%;
+         float: right;
+         margin: 0px 100px;
+     }
+     .gewe .gree{
+        font-size: 25px;
+        color: black;
+        font-weight: bold;
+     }
+     .gewe label{
+         font-size: 19px;
+         font-family: "Calibri", sans-serif;
+         font-weight: 100;
+        color: black;
+     }
+        .gewe input{
+        height: 50px;
+        width: 100%;
+        padding: 5px 
+     }
+     .gewe input:focus{
+        outline: none;
+     }
+        .got{
+    position: absolute;
+     }
+     .gewe .get{
+         font-weight: bold;
+         border: none;
+         background: rgb(19,19,228);
+         color: white;
+         font-size: 15px;
+         font-family: sans-serif;
+         padding: 10px 18px;
+         border-radius: 5px;
+     }
+     .gewe .get:hover{
+          background: rgb(36,36,249);
+     }
+     .gewe .gown{
+         font-family: sans-serif;
+         font-size: 13.5px;
+     }
+     .gewe .gown a{
+         text-decoration: underline;
+         color: rgb(36,36,249);
+     }
+     .gewe .gotten{
+         color: rgb(45,44,44);
+         font-weight: bold;
+         font-size: 16px;
+     }
+     .gewe .grat{
+         width: fit-content;
+     }
+     .gewe .grat li{
+         display: inline;
+         margin: 0px 4px;
+     }
+     .gewe .grat li a{
+         border-radius: 2px;
+         padding: 17px 23px;
+         border: 1px solid black;
+         color: black;
+         font-size: 18px
+     }
+     .gewe .grat li a:hover{
+         background: rgb(230,230,235);
+     }
+     
+    
+
+     .maid{
+         position: absolute;
+         right: 100px;
+         width: 47%;
+     }
+     .gadi{
+         background: linear-gradient(to right, rgba(230,24,24,0.1), rgba(166,166,219,0.1));
+         padding: 20px 10px
+     }
+     .ciga{
+        float: right;
+         margin: 0px 30px
+     }
+     .ciga a{
+         color: blue;
+         text-decoration: none;
+         font-weight: bold;
+         padding: 12px 15px;
+     }
+     .ciga a:hover{
+         background: rgb(230,230,235);
+         border-radius: 5px;
+     }
+     .maid .tolani{
+         display: inline-block;
+         background: white;
+         margin: 20px 20px;
+         border: 1px solid black;
+         padding: 60px 0px 60px 40px;
+         width: 40%;
+         transition: box-shadow 0.2s ease-in-out
+     }
+     .maid .tolani:hover{
+         box-shadow: -8px 8px 0px  black;
+     }
+     .maid .tolani .dami{
+         color: black;
+        font-size: 15px;
+     }
+     .maid .tolani .dam{
+         color: black;
+         font-size: 20px;
+         font-weight: bold
+     }
+      .mad{
+        display: none;
+     }
+     
+     .amidat{
+         width: 40%;
+         margin: 0px 10px;
+     }
+     .amidat .gban{
+         color: black;
+         font-size: 37px;
+         font-weight: bold;
+         font-family: sans-serif;
+     }
+     .amidat .cardio{
+         padding: 20px 0px;
+         transition: padding 0.3s ease-in-out;
+     }
+     .amidat .cardiac{
+         border-bottom: 1px solid black;
+     }
+     .amidat .cardio:hover{
+         background: white;
+         padding: 30px 0px 30px 10px;
+     }
+     .amidat .card-header{
+         background: none;
+         color: black;
+         font-size: 25px;
+          padding: 10px 0px;
+          border-bottom: none;
+         font-weight: bold;
+         font-family: sans-serif;
+     }
+     #seun .collapse{
+         font-size: 17px;
+         color: black;
+         padding-right: 80px;
+     }
+     
+     
+     
+     .kemi{
+         background: #10162F;
+         padding: 50px 0px 90px 0px;
+     }
+     .carf .gettin{
+         width: 40%;
+         font-size: 45px;
+         color: white;
+         font-weight: bold
+     }
+     .carf .gettat{
+          position: absolute;
+         right: 150px;
+          width: 37%;
+         margin: 0px 10px;
+     }
+     .carf .gettat img{ 
+       width: 100%;
+         height: 290px;
+     }
+     .carf .gettit{
+         width: 40%;
+     }
+     .carf .gettit li{
+         list-style-type: none;
+         color: white;
+         font-family: monospace;
+         font-size: 20px;
+         margin: 0px 0px 20px 0px;
+         width: 100%;
+         padding: 5px 8px;
+     }
+     .carf .gettit li.doings{
+         background: #3A10E5;
+     }
+     .carf .gettit li:hover{
+         background: #3A10E5;
+         cursor: pointer;
+     }
+    
+    
+     
+     .keji{
+         padding: 50px 0px;
+          color: black;
+     }
+     .emma .iyawo{
+        font-weight: bold;
+         font-size: 36px;
+         font-family: sans-serif;
+     }
+     .emma .iya .wale{
+         width: fit-content;
+         font-size: 16px;
+         letter-spacing: 0.5px
+     }
+     .emma .iya .ayomi{
+         float: right;
+         width: fit-content;
+     }
+     .emma .iya .ayomi a{
+         text-decoration:  none;
+         color: blue;
+         font-weight: bold;
+         font-size: 15px;
+         padding: 10px;
+     }
+     .emma .iya .ayomi a:hover{
+          background: rgb(220,220,221);
+         border-radius: 3px
+     }
+     .tobi{
+         margin: 20px 0px;
+     }
+     .tobi a{
+         color: black;
+     }
+     .tobi a:hover{
+         text-decoration: none
+     }
+     .tobi .tole{
+         display: inline-block;
+         width: 23.6%;
+         margin-right: 12px;
+     }
+     .tobi .tole:hover a{
+         color: blue;
+     }
+     .tobi .gbogbo img{
+         width: 100%;
+             border: 1px solid blue
+     }
+     .tobi .abga{
+         font-size: 20px;
+         font-weight: bold;
+     }
+      .tobi .timba{
+         font-size: 19px;
+          font-family: monospace;
+     }
+     .emma .ayom{
+         display: none;
+     }
+     
+     
+/*      the purple part */
+     .kare{
+         background: #3A10E5;
+         color: white;
+     } 
+     .chai{
+         padding: 100px 0px;
+     }
+     .chai>div{
+        display: inline-block;
+         margin-left: 50px;
+     }
+     .chai .dave{
+         width: 30%;
+         font-size: 40px;
+         font-weight: bold
+     }
+     .chai .tofunmi{
+         float: right;
+     }
+     .chai .tofunmi>div{
+         text-align: center;
+         display: inline-block;
+         margin: 0px 20px
+     }
+     .chai .bamtee{
+         font-size: 40px;
+     }
+     .chai li{
+         font-size: 19px;
+         list-style-type: none;
+         font-weight: bold;
+     }
+     
+     
+     /* the yellow part*/
+     .dele{
+         background: #FFD300;
+     }
+     .dele .chee{
+         margin: 0px 150px;
+         padding: 130px 0px
+     }
+     .dele .deli{
+         width: fit-content;
+         float: right;
+         margin: -20px 100px 0px 100px;
+     }
+     .dele .fola{
+         width: 30%;
+     }
+     .dele .fola .maami{
+         color: rgb(34,34,34);
+         font-weight: bold;
+         font-size: 43px;
+         line-height: 45px;
+         font-family: sans-serif;
+     }
+     .dele .fola .omaya{
+         color: black;
+         font-family: sans-serif;
+         letter-spacing: 0.5px;
+         font-size: 15px
+     }
+     .dele .fola .orobo button{
+         border: none;
+         background: #4523f3;
+         padding: 8px 15px; 
+         border-radius: 3px
+     }
+     .dele .fola .orobo button:hover{
+         background: #5131F2
+     }
+     .dele .fola .orobo a{
+         color: white;
+         font-weight: bold;
+         font-size: 16px;
+         text-decoration: none
+     }
+     
+/*      the google part */
+     .ini{
+         background: #10162F;
+         color: white;
+         padding: 100px 0px
+     }
+     .ini .chee{
+         margin: 0px 150px
+     }
+     .ini .dandi{
+         width: 32%
+     }
+     .ini .raji{
+         font-family: monospace;
+         font-size: 18px
+     }
+     .ini .fawas{
+         font-size: 43px;
+         font-weight: bold;
+     }
+     .ini .dad{
+         font-size: 15px;
+     }
+     .dandi .mira button{
+         background: #FFD300;
+         padding: 9px;
+         border: none;
+         border-radius: 4px
+     }
+     .dandi .mira button:hover{
+         background: #c6a505;
+     }
+     .dandi .mira a{
+         width: fit-content;
+         text-decoration: none;
+        padding: 9px 15px;
+         color: black;
+         font-weight: bold;
+     }
+     
+     
+/*      black and white */
+     .femi {
+         background: #3A10E5;
+         color: white
+     }
+     .femi .chee{
+         padding: 80px 0px;
+         margin: 0px 150px
+     }
+     .femi .lionking{
+         width: 30%;
+         float: right;
+         margin: 20px 30px 0px 30px
+     }
+    .femi .simba{
+          color: white;
+        font-weight: bold;
+        font-size: 40px
+         }
+     .femi .kiara{
+          color: white;
+        font-size: 15px;
+         font-family: sans-serif
+         }
+     .femi .mufasa button{
+         background: #FFD300;
+         border: none;
+         border-radius: 3px;
+         padding: 8px 16px
+     }
+     .femi .mufasa button:hover{
+         background: #c8a603;
+     }
+     .femi .mufasa button a{
+         color: black;
+         font-weight: bold;
+         font-family: sans-serif;
+         text-decoration: none;
+     }
+     .femi .china{
+         width: 40%;
+     }
+     .femi .china img{
+         width: 100%
+     }
+     .femi .china img.not {
+         display: none
+     }
+     
+/*      tha last full place */
+     .pelf .chee{
+         padding: 50px 0px
+     }
+     
+     .wahab .segzy{
+         color: black;
+         font-size: 16px
+     }
+     .wahab .strigx img{
+         width: 90%
+     }
+     .wahab .strigx>li{
+         list-style-type: none;
+         padding: 5px 0px;
+         color: black;
+         font-size: 15px;
+     }
+     .wahab .strigx>li a{
+         color: black;
+         text-decoration: none;
+     }
+     .wahab .strigx>li a:hover{
+         color: blue
+     }
+     .wahab .strigx .gbomo>li{
+         display: inline;
+         margin: 0px 5px
+     }
+     .wahab .strigx .gbomo i{
+         font-size: 17px;
+         color: rgb(20,19,19);
+     }
+     .hawal{
+         border-left: 1px solid black;
+         padding: 0px 0px 0px 50px 
+     }
+     .wahab .tani{
+         color: black;
+         font-weight: bold;
+         font-size: 14px
+     }
+     
+     
+/*      last paragraph */
+     .mama{
+         border-top: 1px solid black;
+         padding: 20px 0px;
+     }
+     .razy{
+         width: fit-content;
+     }
+     .razy a{ 
+         color: black;
+         text-decoration: none;
+      }
+     .razy a:hover{
+        color:  #3A10E5;
+     }
+     .razy>div{
+         display: inline;
+         padding: 0px 5px
+     }
+     .razy .julie{
+         border-left: 1px solid black;
+     }
+     .faith{
+         float: right;
+     }
+     .caut{
+        color:  rgb(228, 76, 76);
+         font-weight: bold;
+         text-align: center;
+         font-size: 17px
+     }
+}

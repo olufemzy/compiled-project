@@ -1,0 +1,335 @@
+@media screen and (max-width: 760px){
+    .toin{
+         background: #0C3866;
+         padding: 10px 0px 10px 20px;
+     }
+     .dami>div{
+         display: inline-block;
+     }
+     .dami .dem img{
+         width: 60px;
+         padding-right: 9px;
+     }
+     .dami .dem a{
+         color: white;
+         text-decoration: none;
+         font-size: 14px;
+     }
+   .dami .moi{
+        display: none;
+    }
+    .toin .moimoi>button{
+         display: none;
+    }
+    #mami{
+         background: #0C3866;
+        position: absolute;
+        width: 100%;
+        padding: 0px 0px 20px 0px;
+    }
+    #mami .mon a{
+          color: rgb(210,207,207);
+         text-decoration: none;
+         font-size: 15px;
+     }
+    #mami .mon a:hover{
+       color: white 
+    }
+    #mami .mon li{
+        list-style-type: none;
+         padding: 10px;
+        width: fit-content;
+     }
+    #mami .mon a.active{
+         color: white;
+     }
+     #mami .monmon{
+         width: fit-content;
+         padding: 5px;
+         position: relative;
+         left: 22px;
+     }
+     #mami .monmon>button{
+         border-radius: 10px;
+         padding: 15px 30px;
+         background: #48d0c4;
+         color: white;
+         font-size: 15px;
+         border: none;
+     }
+     .dami .malo{
+         position: absolute;
+         right: 10px;
+         top: 15px;
+     }
+    .dami .malo button{
+        background: none;
+        border: none;
+    }
+    .dami .malo i{
+        color: #869CB3;
+        font-size: 30px;
+    }
+     .chan{
+         background: #E9ECEF;
+         padding: 15px 0px 15px 25px;
+         color: rgb(115,112,112);
+         font-size: 15px;
+     }
+     .chan a{
+         color: #40bbb1;
+         text-decoration: none;
+     }
+     .arin{ 
+         text-align: center;
+         
+     }
+     .arin .mum{
+         color: rgb(24,20,20);
+         font-size: 35px;
+     }
+     .arin .mumu{
+         font-size: 17px;
+         color: rgb(117,116,116);
+     }
+    .those{
+         background: #F8F9FA;
+     }
+     .those .card-header{
+         padding: 22px 22px 22px 30px;
+          font-size: 20px;
+         color: #40bbb1;
+         font-weight: bold;
+     }
+      .those .card-header:hover{
+         text-decoration: underline;
+          color: #37958d;
+     }
+     .those .gbas{
+         padding: 20px;
+         font-size: 17.4px;
+     }
+     .baji{
+         background: #131313;
+     }
+     .baji .bage img{
+         width: 50px;
+     }
+     .baji .bage>div{
+         display: inline;
+         color: white;
+         font-size: 25px;
+     }
+     .baji .bade{
+         color: rgb(147,142,142);
+         font-size: 17px;
+     }
+     .baji .bami{
+         color: white;
+         font-size: 20px;
+         font-weight: bold;
+     }
+     .baji .bamtee a{
+         font-size: 17px;
+         color: rgb(117,116,116);
+         text-decoration: none;
+     }
+     .baji .bamtee a:hover{
+         color: white;
+     }
+     .baji .amidat{
+         font-size: 30px;
+         width: fit-content;
+     }
+    .baji .amidat a{
+         color: rgb(117,116,116);
+         padding: 5px;
+     }
+      .baji .amidat a:hover{
+         color: white;
+     }
+     .thou{
+         text-align: center;
+         background: black;
+         font-size: 17px;
+         color: rgb(117,116,116);
+         padding: 15px 0px 25px 0px;
+     }
+     .thou a{
+         text-decoration: none;
+         color: #0C3863;
+     }
+     .thou p{
+         text-align: center;
+         color: red;
+     }
+}
+ @media screen and (min-width:760px){
+     .toin{
+         height: 100%;
+         background: #0C3866;
+         padding: 19px 0px 25px 0px;
+          position: sticky;
+         top: 0px;
+         z-index: 1000;
+     }
+     .toin .toyin{
+         width: 100%;
+          padding: 0px 0px 0px 20px;
+         position: sticky;
+         top: 0px;
+         z-index: 1000;
+     }
+     .dami>div{
+         display: inline-block;
+     }
+     .dami .dem{
+         padding: 0px 150px 0px 0px;
+     }
+     .dami .dem img{
+         width: 60px;
+         padding-right: 9px;
+     }
+     .dami .dem a{
+         color: white;
+         text-decoration: none;
+         font-size: 15px;
+     }
+     .dami .moi{
+         text-align: center;
+     }
+     .tolu>div{
+         display: inline-block;
+     }
+     .dami .moi li{
+         display: inline;
+     }
+     .dami .moi a{
+          color: rgb(210,207,207);
+         text-decoration: none;
+         font-size: 15px;
+         padding: 10px;
+     }
+     .dami .moi a.active{
+         color: white;
+     }
+     .dami .moimoi{
+         padding: 5px;
+         position: relative;
+     }
+     .dami .moimoi>button{
+         border-radius: 10px;
+         padding: 15px 30px;
+         background: #48d0c4;
+         color: white;
+         font-size: 15px;
+         border: none;
+     }
+     .dami .moimoi>button:hover{
+         border-radius: 10px;
+         padding: 15px 30px;
+         background: #0A85BF;
+         color: white;
+         font-size: 15px;
+         border: none;
+     }
+     .dami .malo{
+        display: none;
+     }
+     #mami{
+         position: absolute;
+       visibility: hidden;
+     }
+     .chan{
+         background: #E9ECEF;
+         padding: 15px 0px 15px 80px;
+         color: rgb(115,112,112);
+         font-size: 15px;
+     }
+     .chan a{
+         color: #40bbb1;
+         text-decoration: none;
+     }
+     .arin{
+         text-align: center;
+         width: 700px
+     }
+     .arin .mum{
+         color: rgb(24,20,20);
+         font-size: 35px;
+     }
+     .arin .mumu{
+         font-size: 17px;
+         color: rgb(117,116,116);
+     }
+     .those{
+         background: #F8F9FA;
+     }
+     .those .card-header{
+         padding: 22px 22px 22px 30px;
+          font-size: 20px;
+         color: #40bbb1;
+         font-weight: bold;
+     }
+      .those .card-header:hover{
+         text-decoration: underline;
+          color: #37958d;
+     }
+     .those .gbas{
+         padding: 20px;
+         font-size: 17.4px;
+     }
+     .baji{
+         background: #131313;
+     }
+     .baji .bage img{
+         width: 50px;
+     }
+     .baji .bage>div{
+         display: inline;
+         color: white;
+         font-size: 22px;
+     }
+     .baji .bade{
+         color: rgb(147,142,142);
+         font-size: 16px;
+     }
+     .baji .bami{
+         color: white;
+         font-size: 20px;
+         font-weight: bold;
+     }
+     .baji .bamtee a{
+         font-size: 16px;
+         color: rgb(117,116,116);
+         text-decoration: none;
+     }
+     .baji .bamtee a:hover{
+         color: white;
+     }
+     .baji .amidat{
+         position: absolute;
+         right: 50px;
+         font-size: 25px;
+     }
+     .baji .amidat a{
+         color: rgb(117,116,116);
+         padding: 5px;
+     }
+      .baji .amidat a:hover{
+         color: white;
+     }
+     .thou{
+         background: black;
+         font-size: 17px;
+         color: rgb(117,116,116);
+         padding: 10px 0px 10px 0px;
+     }
+     .thou a{
+         text-decoration: none;
+     }
+     .thou p{
+         text-align: center;
+         color: red;
+     }
+}

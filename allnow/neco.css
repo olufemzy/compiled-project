@@ -1,0 +1,424 @@
+
+@media screen and (max-width: 760px){
+    .row{
+        background: whitesmoke;
+    }
+     .aye{
+         background: whitesmoke;
+         text-align: center;
+         z-index: 1000;
+     }
+     
+     .arin{
+         width: 250px;
+         margin: 0px auto;
+     }
+     .mav{
+         display: none;
+     }
+     .nec{
+        visibility: hidden;
+     }
+     .ise{ 
+         font-size: 13px;
+     }
+     .num{
+       font-size: 13px;
+         color: rgb(109,107,107);
+         padding: 0px 0px 10px 0px;
+     }
+     
+     .ranti{
+         font-size: 13px;
+     }
+     .mai{ 
+        font-size: 13px;
+     }
+    .las{
+         font-size: 13px;
+        padding: 0px 0px 5px 0px;
+     }
+    .las>a{ 
+         padding: 0px 5px 0px 6px;
+         border-left: 1px solid #1EB580;
+          color: #1EB580;
+     }
+     .las>a:hover{
+         text-decoration: none;
+         color: #25de9d;
+     }
+    .ayee{
+        z-index: 2000;
+    }
+    .malo{
+        text-align: center;
+        padding-bottom: 50px;
+    }
+     .marvel>img{ 
+         width: 120px;
+     }
+      .nek{
+         font-size: 25px;
+         padding: 0px 0px 20px 0px;
+          letter-spacing: 3px;
+     }
+ .stic{
+         padding: 30px 30px 20px 30px;
+          background: white;
+     } 
+     .ako{
+         font-size: 18px;
+         text-align: center;
+         letter-spacing: 5px;
+     }
+     .ike{ 
+         text-align: center;
+         font-size: 13px;
+         color: rgb(109,107,107);
+     }
+     .ques label{
+          font-size: 10px;
+         color: rgb(153,150,150);;
+         letter-spacing: 1px
+     }
+     .ques i.bo{
+          position: absolute;
+         top: 385px;
+         right: 60px;
+     }
+     .ques i.pa{
+         position: absolute;
+         top: 470px;
+         right: 60px;
+     }
+     .ques input{
+         width: 100%;
+        height: 45px;
+         border: 1px solid rgb(109,107,107);
+        outline: none;
+         transition: outline 0.5s ease-in;
+          padding: 0px 10px 0px 5px;
+     }
+     .ques input:focus{
+        outline: none;
+        border-radius: 2px;
+     }
+     .tee{
+          width: 100%;
+        height: 45px;
+         border: none;
+         color: white;
+         background: #28e8a5;
+     }
+    .tee:hover{
+        background: #28d599;
+     }
+     .maaran{
+         text-align: center;
+         font-size: 1#22c48c;
+         color: blue;
+     }
+    .maaran a{
+       color: blue;  
+     }
+     .for{
+         text-align: center;
+         font-size: 13px;
+     }
+     .tea button{
+         background: white;
+         width: 100%;
+        height: 45px;
+         border: 1px solid #1EB580;
+         font-size: 13px;
+         color: #1EB580;
+     }
+    .tea button:hover{
+         background: #D4F8EB;
+    }
+     .its{
+          text-align: center;
+         font-size: 13px;
+     }
+     .its a{
+         color: #1EB580;
+     }
+     .sor{
+          text-align: center;
+         font-size: 13px;
+     }
+     .sir{
+          text-align: center;
+         font-size: 13px;
+     }
+     .sir a{
+         color: blue;
+     }
+     .caut{
+        color: rgb(240, 52, 52);
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px
+    }
+}
+
+@media screen and (max-width: 900px){
+    .movemnt{
+         width: 100%;
+         height: 350px;
+         z-index: -500;
+     }
+     .wan{
+         position: absolute;
+         height: 400px;
+         width: 300px;
+         background: rgba(226,218,218,0.4);
+        border-radius: 400px;
+         left: -20px;
+         top: -200px;
+     }
+     @keyframes tuu {
+         from{
+            top: 50px; 
+         }
+         to{
+             top: -50px;
+         }
+    }
+     .tuu{
+         z-index: -300;
+         height: 200px;
+         width: 200px;
+         background: rgba(226,218,218,0.5);
+          border-radius: 200px;
+         position: absolute;
+         right: 0px;
+         top: -50px;
+         animation: tuu 5s ease-in-out 0s infinite alternate;
+     }
+}
+
+
+@media screen and (min-width: 900px){
+     .movemnt{
+         position: absolute;
+         width: 100%;
+         height: 550px;
+         z-index: -500;
+     }
+     @keyframes wan {
+         from{
+             left: -30px; 
+         }
+         to{
+             left: 500px; 
+         }
+     }
+     .wan{
+         position: absolute;
+         height: 550px;
+         width: 550px;
+         background: rgba(226,218,218,0.5);
+        border-radius: 500px;
+         top: -250px;
+         left: -30px;
+         animation: wan 25s ease-in-out 0s infinite alternate;
+     }
+     @keyframes tuu {
+         from{
+            top: 400px; 
+         }
+         to{
+             top: -90px;
+         }
+     }
+     .tuu{
+         z-index: -300;
+         height: 200px;
+         width: 200px;
+         background: rgba(226,218,218,0.5);
+          border-radius: 200px;
+         position: absolute;
+         right: -90px;
+         top: -50px;
+         animation: tuu 25s ease-in-out 0s infinite alternate;
+     }
+}
+
+
+
+ @media screen and (min-width:760px){
+      .row{
+        background: whitesmoke;
+    }
+     .aye{
+         background: whitesmoke;
+         text-align: center;
+         z-index: 1000;
+     }
+    
+     .arin{
+          margin: 0px auto;
+         width: 250px;
+         padding: 0px 0px 160px 0px;
+     }
+     .mav{
+         padding: 0px 65px 10px 65px;
+     }
+     .mav>img{ 
+         width: 120px;
+     }
+     .nec{
+         font-size: 25px;
+         padding: 0px 0px 60px 0px;
+          letter-spacing: 3px;
+     }
+     .ise{ 
+         font-size: 13px;
+     }
+     .num{
+       font-size: 13px;
+         color: rgb(109,107,107);
+         padding: 0px 0px 10px 0px;
+     }
+     
+     .ranti{
+         font-size: 13px;
+     }
+     .mai{ 
+        font-size: 13px;
+          
+     }
+     .las{
+         z-index: 500;
+         width: 100%;
+         font-size: 13px;
+         padding: 0px 0px 5px 0px;
+     }
+     .las>a{ 
+         padding: 0px 5px 0px 6px;
+         border-left: 1px solid #1EB580;
+          color: #1EB580;
+     }
+     .las>a:hover{
+         text-decoration: none;
+         color: #25de9d;
+     }
+     .ayee{
+         padding: 30px 50px 0px 50px;
+          background: white;
+         z-index: 1000;
+     } 
+     .malo{
+         position: absolute;
+         visibility: hidden;
+     }
+     .marvel{
+         padding: 0px 65px 10px 65px;
+     }
+     .marvel>img{ 
+         width: 120px;
+     }
+      .nek{
+         font-size: 25px;
+         padding: 0px 0px 60px 0px;
+          letter-spacing: 3px;
+          text-align: center;
+     }
+     .ako{
+         font-size: 18px;
+         text-align: center;
+         letter-spacing: 5px;
+     }
+     .ike{ 
+         text-align: center;
+         font-size: 13px;
+         color: rgb(109,107,107);
+     }
+     .ques label{
+          font-size: 10px;
+         color: rgb(153,150,150);
+         letter-spacing: 1px;
+     }
+     .ques i.bo{
+          position: absolute;
+         top: 170px;
+         right: 60px;
+     }
+     .ques i.pa{
+         position: absolute;
+         top: 260px;
+         right: 60px;
+     }
+     .ques input{
+         width: 100%;
+        height: 45px;
+         border: 1px solid rgb(173,162,162);
+        outline: none;
+         transition: outline 0.5s ease-in;
+         padding: 0px 15px 0px 5px
+     }
+     .ques input:focus{
+         outline: none;
+        border-radius: 2px;
+     }
+     .tee{
+          width: 100%;
+        height: 45px;
+         border: none;
+         color: white;
+         background: #28d599;
+     }
+      .tee:hover{
+         background: #1EB580;
+     }
+     .maaran {
+         text-align: center;
+         font-size: 12px;
+         color: blue;
+     }
+     .maaran a{
+       color: blue;  
+     }
+     .for{
+         text-align: center;
+         font-size: 13px;
+     }
+     .tea button{
+         background: white;
+         width: 100%;
+        height: 45px;
+         border: 1px solid #1EB580;
+         font-size: 13px;
+         color: #1EB580;
+     }
+      .tea button:hover{
+         background: #D4F8EB;
+    }
+     .its{
+          text-align: center;
+         font-size: 13px;
+     }
+     .its a{
+         font-size: 15px;
+         color: #1dad7a;
+     }
+     .sor{
+          text-align: center;
+         font-size: 13px;
+     }
+     .sir{
+          text-align: center;
+         font-size: 13px;
+     }
+     .sir a{
+         font-size: 15px;
+         color: blue;
+     }
+     .caut{
+        color: rgb(240, 52, 52);
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px
+    }
+}

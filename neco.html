@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang=en>
+	<head>
+		<title>NECO Results</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" 
+		integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" 
+		crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" 
+		integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" 
+		crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" 
+		integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" 
+		crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" 
+		integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" 
+		crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<!-- <link rel="stylesheet" href="fontawesome/css/all.css" /> -->
+        <link rel="stylesheet" href="neco.css" />
+        <link rel="icon" type="image/gif" href="animated_favicon1.gif">
+	</head>
+	<body class="container-fluid">
+       
+        <div class="row">
+            <div class="col-sm-8 aye">
+                <div class="movemnt">
+                    <div class="wan">
+
+                    </div>
+                    <div class="tuu">
+
+                    </div>
+                </div>
+                <div class="thal">
+                    <div class="arin">
+                        <div class="mav">
+                            <img src="img/neco.png"/>
+                        </div>
+                        <div class="nec">
+                            NECO RESULTS
+                        </div>
+                        <div class="ise">
+                            <b>How It Works</b>
+                        </div>
+                        <hr>
+                        <div class="num">
+                            <div>1. Enter your token</div>
+                            <div>2. Enter your examination number</div>
+                           <div> 3. Click on the"Check my result" button</div>
+                        </div>
+                        <div class="ranti">
+                            <b>Support</b>
+                        </div>
+                        <hr>
+                        <div class="mai">
+                            Support mail &nbsp; &nbsp;support@neco.gov.ng
+                        </div>
+                        <hr>
+                    </div>
+                </div>
+                <div class="las">
+                    Copyright &copy; 2021 <a href="neco.html">Home</a><a href="index.html">Smile</a>
+                    <a href="simplified.html">Simplified Credits</a><a href="innovation.html">Pmi - Innovation</a>
+                    <a href="operaniyi.html">Operaniyi</a>.
+                </div>
+                <div class="caut">
+					<p>CAVEAT: PROJECT FOR PRACTICE</p>
+				</div>
+            </div>
+            <div class="col-sm-4 ayee">
+                <div class="malo">
+                    <div class="marvel">
+                        <img src="img/neco.png"/>
+                    </div>
+                    <div class="nek">
+                        NECO RESULTS
+                    </div>
+                </div>
+                <div class="stic">
+                    <div class="ako">
+                        LOGIN
+                    </div><br>
+                    <div class="ike">
+                        Login with your email address or phone number and password
+                    </div><br>
+                    <div class="ques">
+                        <form>
+                            <label>EMAIL OR PHONE NUMBER</label><i class="fa fa-inbox bo"></i><br>
+                            <input id="firstinput" onkeyup="numValidate()"/><br>
+                            <span id="inum"></span><br>
+                            <label>PASSWORD</label><i class="fa fa-lock-open pa"></i>
+                            <input type="password" id="secinput" onkeyup="pasValidate()"/><br>
+                            <span id="ipas"></span><br><br>
+                        </form>
+                    </div>
+                    <button type="button" class="tee">LOGIN</button><br><br>
+                    <div class="maaran">
+                        <a href="codeacademy.html"><b>Codeacademy</b></a>
+                    </div><br>
+                    <div class="for">
+                        OR
+                    </div><br>
+                    <div class="tea">
+                        <button type="button">Sign in with Google</button><br>
+                    </div><br>
+                    <div class="its">
+                        Don't have an account? <b><a href="netflix.html">Netflix</a></b>
+                    </div><br>
+                    <div class="sor">
+                        OR
+                    </div><br>
+                    <div class="sir">
+                        Check your results <b><a href="outlook.html">outlook</a></b>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <script>
+            function numValidate() {
+                let theNum = document.getElementById("firstinput").value;
+                let onlyNum = /^[0-9]+$/;
+                let onlyEmail= /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+
+                if (theNum.match(onlyNum)) {
+                    document.getElementById("inum").innerHTML="<span style='display: none';></span>";
+                    document.getElementById("firstinput").style.border="2px solid green";
+                    return true;
+                }
+                else if (theNum.match(onlyEmail)) {
+                    document.getElementById("inum").innerHTML="<span style='display: none';></span>";
+                    document.getElementById("firstinput").style.border="2px solid green";
+                    return true;
+                }
+                else {
+                    document.getElementById("inum").innerHTML="<span style='font-size: 10px; color: red; ';>Please input your email or phone number!</span>";
+                    document.getElementById("firstinput").style.border="2px solid red";
+                    return false;
+                }
+            }
+            
+            function pasValidate(){
+                let thePas= document.getElementById("secinput").value;
+                let onlyPassword = /^[a-zA-Z0-9!@#$%^&*]{8,}$/;
+
+                if (thePas.match(onlyPassword)) {
+                    document.getElementById("ipas").innerHTML="<span style='display: none';></span>";
+                    document.getElementById("secinput").style.border="2px solid green";
+                    return true;
+                }
+                else {
+                    document.getElementById("ipas").innerHTML="<span style='font-size: 10px; color: red; ';>Password is required with at least  8 characters!</span>";
+                    document.getElementById("secinput").style.border="2px solid red";
+                    return false;
+                }
+            }
+        </script>
+    </body>

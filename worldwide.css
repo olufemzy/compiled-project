@@ -1,0 +1,492 @@
+@media screen and (max-width: 768px){
+    .tinba{
+        background: white;
+/*           position: sticky;
+        top: 0px; */
+        z-index: 10000;
+        width: 100% 
+    }
+    .tinba .kancel{
+        width: fit-content;
+    }
+    .tinba .kancel i{
+        font-size: 25px;
+            padding: 10px;
+    }
+    .tinba .kancel i:hover{
+        cursor: pointer;
+    }
+    .tinba li{
+        list-style-type: none;
+        padding: 10px;
+        width: fit-content;
+       display: block;
+    }
+    .tinba a{
+        color: rgb(71,70,70);
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 17px;
+        font-family: sans-serif
+    }
+    .tinba li a:hover{
+        border-bottom: 2px solid blue;
+        text-decoration: none;
+    }
+    
+   
+   .kang{
+        position: absolute;
+        left: 10px;
+        top: 30px;
+    }
+   .horr{
+        background: black;
+        width: fit-content;
+        font-size: 28px;
+        position: fixed;
+        right: 0px;
+        top: 30px;
+        padding: 10px 18px;
+        background: #4054B2;
+    }
+    .horr a{
+        color: white;
+    }
+   .moimoi{
+        color: black;
+      background: white;
+       outline: none;
+        border: none;
+       font-size: 18px;
+    }
+   .moimoi a{
+       color: black;
+       text-decoration: none
+   }
+    .fir{
+        padding: 20px 0px 80px 10px;
+        text-align: center
+    }
+    .fir img{
+        width: 90px;
+    }
+    .fir .gown{
+        display: none;
+    }
+    .joyin .gangan{
+        color: rgb(66,65,65);
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .joyin .favour{
+        color: rgb(82,80,80);
+        font-size: 26px;
+        font-weight: bold;
+    }
+   .bobo a{
+        color: black;
+    }
+    .bobo .jeun{
+        letter-spacing: 2px
+    }
+    .bobo:hover a{
+        text-decoration: none;
+    }
+    .bobo:hover .jeun{
+        color: purple;
+   }
+   .bobo .ideti{
+       transition: all 0.3s ease-in-out 0s
+   }
+    .bobo:hover .ideti{
+        padding-left: 20px;
+    }
+    .goke img{
+         width: 100%;
+        height: 300px;
+        padding: 0px 20px 0px 30px;
+    }
+   .amid{
+        padding: 50px 0px 30px 0px;
+        background: #F8F8F8;
+        font-size: 15px;
+       margin: 0px 20px;
+    }
+    .amid .amidat{
+        font-size: 22px;
+        padding-top: 10px;
+    }
+   .fiyin img{
+        width: 100%;
+        height: 300px;
+        padding: 0px 20px 0px 30px;
+    }
+   .bami{
+        font-size: 15px;
+       padding: 0px 30px
+    }
+    .bami .gbemi{
+         color: rgb(85,84,84);
+        letter-spacing: 1px;
+        font-size: 16px;
+    }
+    .bami .richie{
+        color: rgb(85,84,84);
+        font-size: 32px;
+    }
+    .bami ul{
+        font-size: 16px;
+    }
+    .bami button.ent{
+        letter-spacing: 1px;
+        color: rgb(116,116,145);
+        padding: 13px;
+        outline: 1px solid blue;
+       border: none;
+    }
+    .bami button.ent:hover{
+        background: #6698CF;
+        outline: none;
+        border: none;
+        color: white;
+    }
+   .dare{
+       padding: 0px 0px 40px 20px;
+    }
+    .dare .you{
+        width: fit-content;
+        padding: 5px 0px;
+        color: black;
+        border-top: 1px solid rgb(136,134,134)
+    }
+    .dare button{
+        background: #F6F7F7;
+        border: none;
+        outline: 1px solid rgb(175,172,172);
+        border-radius: 2px;
+        padding: 3px 8px;
+        font-size: 13px;
+    }
+    .dare button:hover{
+        outline: 1px solid rgb(75,74,74);
+    }
+   .isale{
+        background: #6698CF;
+    }
+    .mami{
+        margin: 0px 30px;
+        padding: 30px 0px 50px 0px;
+    }
+    .mami .bol{
+        font-size: 16px;
+        color: rgb(255,253,253);
+    }
+    .mami .biggie{
+        font-size: 30px;
+        font-weight: bold;
+        color: white;
+    }
+    .mami a{
+        color: rgb(255,253,253);
+        text-decoration: none;
+    }
+    .mami a>div{
+        width: fit-content;
+        display: inline;
+    }
+    .mami .dad{
+        padding-left: 5px;
+    }
+    .mami .anime .awon{
+        padding: 8px 0px;
+    }
+    .lat{
+        background: #33689C;
+        padding: 20px 0px 8px 0px;
+    }
+    .lat .mam{
+        margin: 0px 30px;
+        color: white;
+        font-size: 13px;
+    }
+    .lat .mam a{
+        color: white
+    }
+    .mam .gani>div{
+        text-align: center;
+        display: inline;
+        margin: 0px 8px;
+        border: 1px solid white;
+        border-radius: 50px;
+        padding: 5px 8px;
+    }
+    .lat .caut{
+        color: black;
+        font-weight: bold;
+        text-align: center;
+        font-size: 20px
+    }
+}
+@media screen and (min-width:768px){
+    .tinba{
+         background: white;
+        position: sticky;
+        top: 0px;
+/*         z-index: 10000; */
+        width: 100% 
+    }
+    .tinba .kancel{
+        width: fit-content;
+    }
+    .tinba .kancel i{
+        font-size: 25px;
+            padding: 10px;
+    }
+    .tinba .kancel i:hover{
+        cursor: pointer;
+    }
+   .tinba .raman{
+        width: 33%;
+       margin: 0px auto;
+       text-align: center;
+    }
+    .tinba .raman ul{
+        display: grid;
+        grid-template-columns: auto auto
+    }
+    .tinba li{
+        list-style-type: none;
+        padding: 10px;
+        width: fit-content;
+       display: inline-block;
+    }
+    .tinba a{
+        color: rgb(71,70,70);
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 17px;
+        font-family: sans-serif
+    }
+    .tinba li a:hover{
+        border-bottom: 2px solid blue;
+        text-decoration: none;
+    }
+    
+    
+    .kang{
+        position: fixed;
+        left: 10px;
+        top: 50px;
+        transform: rotate(270deg);
+    }
+    .horr{
+        background: black;
+        width: fit-content;
+        font-size: 28px;
+        position: fixed;
+        right: 0px;
+        top: 50px;
+        padding: 10px 15px;
+        background: #4054B2;
+        z-index: 12000;
+    }
+    .horr a{
+        color: white;
+    }
+    .fir{
+        padding: 50px 0px 100px 10px;
+    }
+    .fir img{
+        width: 130px;
+    }
+    .fir .gown{
+        float: right;
+        letter-spacing: 2px;
+        font-size: 16px;
+        color: black
+    }
+    .fir .gown a{
+        color: black;
+           text-decoration: none;
+    }
+    .moimoi{
+        color: black;
+      background: white;
+       outline: none;
+        border: none;
+        padding: 15px 18px 15px 18px;
+        border-radius: 3px;
+    }
+    .moimoi a{
+        color: black;
+        text-decoration: none;
+    }
+    .joyin .gangan{
+        color: rgb(66,65,65);
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .joyin .favour{
+        color: rgb(82,80,80);
+        font-size: 32px;
+        font-weight: bold;
+    }
+    .bobo a{
+        color: black;
+    }
+    .bobo .jeun{
+        letter-spacing: 2px
+    }
+    .bobo:hover a{
+        text-decoration: none;
+    }
+    .bobo:hover .jeun{
+        color: purple;
+    }
+    .bobo .ideti{
+        transition: all 0.3s ease-in-out 0s
+    }
+    .bobo:hover .ideti{
+        padding-left: 20px;
+    }
+    .goke{
+        text-align: right;
+    }
+    .goke img{
+        width: 1230px;
+    }
+    .amid{
+        padding: 50px 0px 30px 0px;
+        background: #F8F8F8;
+        font-size: 15px;
+    }
+    .amid .amidat{
+        font-size: 20px
+    }
+    .fiyin img{
+        width: 600px;
+        height: 500px;
+        margin: 30px 30px;
+        float: right;
+    }
+    .bami{
+        font-size: 15px
+    }
+    .bami .gbemi{
+         color: rgb(85,84,84);
+        letter-spacing: 1px;
+        font-size: 16px;
+    }
+    .bami .richie{
+        color: rgb(85,84,84);
+        font-size: 32px;
+    }
+    .bami ul{
+        font-size: 16px;
+    }
+    .bami button.ent{
+        letter-spacing: 1px;
+        color: rgb(116,116,145);
+        padding: 13px;
+        outline: 1px solid blue;
+       border: none;
+    }
+    .bami button.ent:hover{
+        background: #6698CF;
+        outline: none;
+        border: none;
+        color: white;
+    }
+    .dare{
+       padding: 0px 0px 5px 250px;
+    }
+    .dare .you{
+        width: fit-content;
+        padding: 5px 0px;
+        color: black;
+        border-top: 1px solid rgb(136,134,134)
+    }
+    .dare button{
+        background: #F6F7F7;
+        border: none;
+        outline: 1px solid rgb(136,134,134);
+        border-radius: 2px;
+        padding: 3px 5px;
+        font-size: 12px;
+        box-shadow: 0px 0px 3px rgb(136,134,134)
+    }
+    .dare button:hover{
+        outline: 1px solid rgb(124,122,122);
+    }
+    .isale{
+        background: #6698CF;
+    }
+    .mami{
+        margin: 0px 60px;
+        padding: 30px 0px 50px 0px;
+    }
+    .mami .bol{
+        font-size: 15px;
+        color: rgb(228,225,225);
+    }
+    .mami .biggie{
+        font-size: 30px;
+        font-weight: bold;
+        color: white;
+    }
+    .mami a{
+        color: rgb(228,225,225);
+        text-decoration: none;
+    }
+    .mami a div.lai{
+        transition: all 0.3s ease-in-out 0s
+    }
+    .mami a:hover div.lai{
+        padding-left: 5px
+    }
+    .mami a div.dad{
+        transition: all 0.3s ease-in-out 0s
+    }
+    .mami a:hover div.dad{
+        padding-left: 10px
+    }
+    .mami a>div{
+        width: fit-content;
+        display: inline;
+    }
+    .mami .dad{
+        padding-left: 5px;
+    }
+    .mami .anime .awon{
+        padding: 8px 0px;
+    }
+    .lat{
+        background: #33689C;
+        padding: 20px 0px 8px 0px;
+    }
+    .lat .mam{
+        margin: 0px 60px;
+        color: white;
+        font-size: 13px;
+    }
+    .lat .mam a{
+        color: white
+    }
+    .mam .gani{
+       float: right;
+    }
+    .mam .gani>div{
+        text-align: center;
+        display: inline;
+        margin: 0px 8px;
+        border: 1px solid white;
+        border-radius: 50px;
+        padding: 5px 8px;
+    }
+    .lat .caut{
+        color: rgb(230,50,50);
+        font-weight: bold;
+        text-align: center;
+    }
+}

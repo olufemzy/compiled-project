@@ -1,0 +1,972 @@
+@media screen and (max-width: 1020px){ 
+    .gran{
+              background: white;
+            padding: 10px 0px 0px 0px;
+            position: sticky;
+            top: 0px;
+            z-index: 1000;
+        box-shadow: 0px 2px 5px rgb(71,69,69);
+         }
+        .mamu{
+            text-align: center;
+            width: fit-content;
+            padding: 0px;
+        }
+        .mamu .dad img{
+            width: 100px;
+        }
+         .gran>div{
+             display: inline;
+         }
+         .gran .ganji{
+             display: none; 
+         }
+        .ess{
+            padding: 0px;
+        }
+         .ess>div{
+             display: inline-block; 
+         }
+        .ser{
+             background: white;
+             padding: 0px 10px;
+             position: absolute;
+             top: 30px;
+            left: 10px
+         }
+         .ser a{
+             color: black;
+             font-weight: bold;
+             font-size: 16px
+         }
+         .seer{
+             background: white;
+             padding: 0px 25px;
+             position: absolute;
+             top: 30px;
+             left: 40px;
+         }
+         .seer a{
+             color: black;
+             font-size: 16px;
+         }
+        .con{
+             background: rgb(233,3,3);
+             padding-left: 10px;
+            position: absolute;
+             top: 0px;
+             right: 0px;
+         }
+         .malo{
+             background: black;
+             padding: 24px 18px;
+         }
+         .malo a{
+             color: white;
+             font-size: 21px;
+         }
+    .tinba{
+        width: fit-content;
+        background: rgb(198,53,53);
+        z-index: 1000;
+        position: fixed;
+        top: 75px;
+        padding: 0px 10px;
+    }
+    .tinba ul>li{
+        list-style-type: none;
+        padding: 10px 0px;
+    }
+    .tinba ul>li a{
+        color: white;
+    }
+     .tinba ul>li a:hover{
+        text-decoration: none;
+         color: gold
+    }
+}
+    @media screen and (min-width: 1020px){
+         .gran{
+              background: white;
+             box-shadow: 0px 0px 15px rgb(164,160,160);
+             position: sticky;
+             top: 0px;
+             z-index: 1000;
+         }
+         .mamu{
+            margin: 0px 10px 0px 30px ;
+         }
+         .mamu .dad{
+           margin-right: 10px; 
+         }
+        .grod>div{
+             display: inline;
+         }
+         .gran{
+             display: flex;
+             flex-direction: row;
+             justify-content: space-between;
+             align-items: baseline;
+         }
+         .mamu>div{
+             display: inline-block;
+         }
+         .mamu .gang{
+             font-size: 18px;
+         }
+         .ganji>div{
+             display: inline-block;
+             padding: 0px 5px;
+         }
+         .ganji .gbas{
+             text-align: center;
+         }
+         .ganji .gbas a{
+             color: black;
+             font-size: 12px;
+             letter-spacing: 0.5px
+         }
+         .ganji .gbas a:hover{
+             color: red;
+             text-decoration: none;
+         }
+         .ganji .gbas i{
+             color: rgb(143,140,140);
+         }
+         .ess{
+             display: flex;
+             flex-direction: row;
+         }
+         .sere{
+             background: rgb(233,3,3);
+             padding-left: 10px;
+         }
+         .ser{
+             background: black;
+             padding: 40px 12px;
+         }
+         .ser a{
+             color: white;
+             font-weight: bold;
+             font-size: 21px
+         }
+         .seer{
+             background: white;
+             padding: 40px 12px;
+         }
+         .seer a{
+             color: black;
+             font-weight: bold;
+             font-size: 21px;
+         }
+         .malo{ 
+         visibility: hidden;
+             position: absolute
+         }
+    }
+         
+    @media screen and (max-width: 768px){ 
+        body{
+            background: #F3F3EF;
+            margin: 0px auto;
+         }
+          
+    /*     after the navbar */
+         .ganni{
+             background-image: url(img/slider1.jpg);
+             box-shadow: 0px 0px 10px rgb(191,183,183);
+         }
+        .fave{
+            background-color: rgba(0, 0, 0, 0.2);
+             padding: 100px 40px 120px 30px;
+         }
+         .ganni .bigint{
+             color: rgba(255,255,255,1);
+             font-weight: bold;
+             font-size: 35px
+         }
+         .ganni .smalint{
+             color: rgba(255,255,255,1); 
+         }
+       .cak{
+           height: 50px;
+              background: rgb(226,6,6);
+         }
+         .gangi{
+              background: rgb(24,24,24);
+             padding: 20px 0px;
+         }
+         .gol>div{
+             text-align: center;
+         }
+         .gol .gee{
+             color: white;
+             font-size: 14px;
+         }
+         .gol .dol{
+             color: white;
+             font-size: 30px;
+         }
+         .gol .bol{
+             color: white;
+             font-size: 13px;
+             padding: 0px 0px 10px 0px;
+         }
+         .gol .fol{
+             color: white;
+             font-size: 15px;
+             padding: 0px 0px 10px 0px
+         }
+         .gol .rol{
+             color: rgb(162,156,156);
+             font-size: 11px;
+         }
+         .kanju{
+             margin: 0px 20px;
+         }
+         .kala .kolu>div{
+             display: inline;
+         }
+          .gret{
+             color: black;
+             font-size: 20px;
+             font-weight: bold
+         }
+         .kolu a{
+             color: rgb(206,5,5);
+             float: right;
+             font-weight: bold;
+         }
+         .kolu i{
+              transform: rotate(44deg);
+             font-size: 25px;
+         }
+         .kanju .kemkem{
+             background: white;
+             padding: 30px 20px 60px 20px;
+             box-shadow: 0px 0px 8px rgb(145,144,144);
+             color: black;
+         }
+        .kanju .kemkem:hover{
+             border-bottom: 8px solid rgb(219,5,5)
+         }
+         .kanju .kemkem i{
+             color: rgb(206,5,5);
+             font-size: 18px
+         }
+         .kemkem .gadi a{
+             color: black;
+             font-size: 17px
+         }
+         .kemkem a:hover{
+             color: red;
+             text-decoration: none;
+         }
+         .kemkem .kenn>div{
+             display: inline;
+             font-size: 11px
+         }
+         .kenn .rof{
+             border-right: 2px solid black;
+             padding-right: 5px;
+         }
+         .kenn .gof{
+             padding-left: 5px;
+         }
+         .kemkem .kenny{
+             padding: 10px 0px;
+              font-size: 11px
+         }
+         .kemkem .rofia{
+             font-size: 13px;
+             letter-spacing: 0.5px;
+         }
+         .kemkem .rofia a{
+             color: black;
+         }
+          .kemkem .rofia a:hover{
+             color: red;
+         }
+         .kemkem .toyin a{
+             color: black;
+             letter-spacing: 0.2px;
+             font-size: 13px;
+             padding-left: 5px;
+             display: block
+         }
+         .kemkem .toyin a:hover{
+             color: red;
+         }
+         .kemkem .kaze a{
+             color: rgb(206,5,5);
+             font-weight: bold;
+             font-size: 15px;
+         }
+        .kemkem .kaze i{
+            font-size: 15px;
+        }
+        .kanju .kanu{
+            padding: 35px 0px 5px 0px
+        }
+        .kanju .rofiat{
+            background: white;
+             padding: 60px 20px 80px 30px;
+             box-shadow: 0px 0px 8px rgb(145,144,144);
+             color: black;
+         }
+         .rofiat .jigan{
+             padding: 15px 0px;
+             border-bottom: 1px solid rgb(175,173,173)
+         }
+         .rofiat .jigan>a{
+             padding: 10px 1px 10px 8px;
+             font-weight: bold;
+             color: rgb(20,19,19);
+             font-size: 18px;
+         }
+         .rofiat .jigan>a:hover{
+             color: rgb(226,4,4);
+             text-decoration: none;
+             border-left: 2px solid rgb(226,4,4);
+             padding: 10px 0px 10px 8px;
+         }
+        .esther{
+             background-image: url(img/financial-releases-bg.png);
+             background-repeat: no-repeat;
+            background-position: 200px 0px;
+         }
+         .esther .maami{
+             font-weight: bold;
+             font-size: 21px;
+             color: rgb(24,23,23);
+             text-align: center;
+                 margin: 0px 50px;
+         }
+         .esther .maami>a{
+             color:  white;
+             font-weight: bold;
+         }
+         .esther .maami i{
+             transform: rotate( 50deg);
+             float: right;
+         }
+         .esther .dupe{
+             text-align: center
+         }
+         .esther .dupe>div{
+             background: white;
+             width: 450px;
+              text-align: left;
+             box-shadow: 0px 0px 5px rgb(134,132,132);
+             margin: 0px 10px
+         }
+         .esther .dupe .mope{
+             padding: 40px 16px;
+         }
+        .esther .dupe>div.folu{
+            margin: 25px 10px
+        }
+        .esther .dupe>div.fola{
+             width: 200px;
+            display: inline-block;
+        }
+        .esther .mope:hover{
+            border-bottom: 10px solid rgb(224,2,2); 
+         }
+         .esther .mope a{
+             color: rgb(232,4,4);
+             font-size: 18px;
+         }
+         .esther .mope a:hover{
+             text-decoration: none;
+         }
+          .esther .tope{
+             text-align: center;
+         }
+         .esther .tope button{
+             background: rgb(226,5,5);
+             margin: 0px auto;
+             border: none;
+             padding: 6px 25px;
+         }
+         .esther .tope button:hover{
+             background: none;
+             border: 2px solid red;
+         }
+         .esther .tope a{
+             color: white;
+             font-size: 14px;
+         }
+         .esther .tope a:hover{
+             text-decoration: none;
+             color: red;
+         }
+        .esther .tope button:hover a{
+             text-decoration: none;
+             color: red;
+         }
+         .eni{
+             background-image: url(img/quarterly-earnings-bg.jpg);
+         }
+        .eni .iyawa{
+             background-color: rgba(0, 0, 0, 0.5)
+         }
+         .eniola{
+            text-align: center; 
+             padding: 50px 0px
+         }
+         .eniola .gogo{
+             font-weight: bold;
+             color: white;
+             font-size: 25px;
+         }
+         .eniola .cac{
+             color: white;
+             font-size: 23px;
+             padding: 20px 0px
+         }
+            .eniola .daga{
+                text-align: left;
+                margin: 0px 10px
+            }
+            .eniola .daga .funmi{
+                padding-bottom: 10px;
+            }
+         .eniola .daga a{
+             padding-right: 50px;
+             color: white;
+             font-size: 15px
+         }
+         .eniola .daga a:hover{
+             text-decoration: none;
+             color: red
+         }
+         .eniola .daga i{
+             color: red;
+             font-size: 23px;
+            padding-right: 5px
+         }
+         .eniola .bleble button{
+             background: rgb(226,5,5);
+             margin: 0px auto;
+             border: none;
+             padding: 6px 25px;
+         }
+         .eniola .bleble button:hover{
+             background: none;
+             border: 2px solid red;
+         }
+         .eniola .bleble a{
+             color: white;
+             font-size: 14px;
+         }
+         .eniola .bleble a:hover{
+             text-decoration: none;
+             color: red;
+         }
+        .eniola .bleble button:hover a{
+             text-decoration: none;
+             color: red;
+         }
+        .padd{
+             background: #F3F3EF;
+            padding: 0px 10px
+         }
+         .dodo{
+             margin: 0px auto;
+             width: fit-content;
+             background: white;
+             box-shadow: 0px 2px 5px rgb(94,93,93)
+         }
+         .dodo>div{
+             display: inline-block;
+         }
+         .jamiu{
+             text-align: center;
+            background: red;
+             padding: 0px 0px 10px 0px;
+             width: 100%;
+         }
+         .jamiu .dada{
+             font-size: 22px;
+             background: rgb(22,21,21);
+             color: white;
+            padding: 70px
+         }
+        .dodo .ogede{
+            width: fit-content;
+            text-align: center;
+        }
+         .dodo .ogede>div{
+             display: inline-block;
+         }
+         .dodo .ogede .ode{
+             padding: 40px;
+         }
+         .ogede .ode{
+             text-align: center;
+             width: fit-content;
+         }
+         .ogede i{
+             color: rgb(230,12,12);
+             font-size: 55px;
+         }
+         .ogede .ruka a{
+             color: black;
+             font-weight: bold;
+             font-size: 20px;
+         }
+         .ogede .ruka a:hover{
+             text-decoration: none;
+             color: rgb(221,3,3);
+         }
+        .pana{
+             background: white;
+             padding:20px 20px 0px 20px;
+         } 
+         .doyin .nikky{
+             width: fit-content;
+             text-align: center
+         }
+         .doyin .nikky .bruno{
+             color: black;
+             font-size: 11px;
+             letter-spacing: 1px
+         }
+        .doyin .papa{
+            padding-top: 10px;
+            width: fit-content;
+        }
+         .doyin .papa ul>li{
+             display: inline;
+             color: black;
+         }
+         .doyin .papa ul>li.onli{
+             font-weight: bold;
+             font-size: 13px;
+         }
+         .doyin .papa ul>li a{
+             margin-right: 10px;
+             background: black;
+             padding: 8px 10px;
+             border-radius: 25px;
+            color: white;
+         }
+         .doyin .papa ul>li a:hover{
+             text-decoration: none;
+             background: white;
+             color: rgb(221,3,3);
+             border: 2px solid rgb(221,3,3)
+         }
+        .pana .jare{
+            width: fit-content;
+         }
+         .pana .jare li{
+            list-style-type: none;
+         }
+         .pana .jare a{
+             color: rgb(71,70,70);
+             font-size: 13px;
+         }
+         .pana .jare a:hover{
+             color: rgb(221,3,3);
+         }
+         .pana .caut{
+             color: red;
+             font-size: 19px;
+             text-align: center;
+             font-weight: bold;
+         }
+    }
+     @media screen and (min-width:768px){
+    /*      after the navbar */
+         .ganni{
+             background-image: url(img/slider1.jpg);
+            background-color: rgba(0, 0, 0, 0.3);
+         }
+         .fave{
+            background-color: rgba(0, 0, 0, 0.2);
+             padding: 50px 40px 100px 50px;
+         }
+         .ganni .bigint{
+             color: rgba(255,255,255,1);
+             font-weight: bold;
+             font-size: 50px;
+             
+         }
+         .ganni .smalint{
+             color: rgba(255,255,255,1); 
+             font-size: 17px;
+         }
+         .cak{
+              background: rgb(226,6,6);
+         }
+         .gangi{
+              background: rgb(24,24,24);
+             padding: 60px 40px 100px 50px;
+         }
+         .gol .gee{
+             color: white;
+             font-size: 18px;
+             padding-left: 15px
+         }
+         .gol .dol{
+             color: white;
+             font-size: 55px;
+         }
+         .gol .bol{
+             color: white;
+             font-size: 18px;
+             padding: 0px 0px 10px 30px;
+         }
+         .gol .fol{
+             color: white;
+             font-size: 18px;
+             padding: 0px 0px 10px 18px
+         }
+         .gol .rol{
+             color: rgb(162,156,156);
+             font-size: 13px;
+         } 
+         .kanju{
+             margin: 0px 50px;
+         }
+         .kala .kolu>div{
+             display: inline;
+         }
+          .gret{
+             color: black;
+             font-size: 30px;
+             font-weight: bold
+         }
+         .kolu a{
+             color: rgb(206,5,5);
+             float: right;
+             padding: 10px 0px 0px 0px;
+             font-weight: bold;
+         }
+         .kolu i{
+              transform: rotate( 44deg);
+             font-size: 25px;
+         }
+         .kanju .kemkem{
+             padding: 60px 20px 80px 30px;
+             box-shadow: 0px 0px 8px rgb(145,144,144);
+             color: black;
+         }
+         .kanju .kemkem:hover{
+             border-bottom: 8px solid rgb(219,5,5)
+         }
+         .kanju .kemkem i{
+             color: rgb(206,5,5);
+             font-size: 20px
+         }
+         .kemkem .gadi a{
+             color: black;
+             font-size: 25px
+         }
+         .kemkem a:hover{
+             color: red;
+             text-decoration: none;
+         }
+         .kemkem .kenn>div{
+             display: inline;
+         }
+         .kenn .rof{
+             border-right: 2px solid black;
+             padding-right: 5px;
+         }
+         .kenn .gof{
+             padding-left: 5px;
+         }
+         .kemkem .kenny{
+             padding: 10px 0px;
+         }
+         .kemkem .rofia{
+             font-size: 16px;
+             letter-spacing: 0.5px;
+         }
+         .kemkem .rofia>div{
+             display: inline;
+         }
+         .kemkem .rofia a{
+             color: black;
+         }
+          .kemkem .rofia a:hover{
+             color: red;
+         }
+         .rofia .mon{
+              border-right: 1px solid black;
+             padding-right: 5px;
+         }
+          .rofia .non{
+             padding-left: 5px;
+         }
+         .kemkem .toyin a{
+             color: black;
+             letter-spacing: 0.2px;
+             font-size: 16px;
+             padding: 0px 10px 0px 5px;
+         }
+         .kemkem .toyin a:hover{
+             color: red;
+         }
+         .kemkem .kaze a{
+             color: rgb(206,5,5);;
+             font-weight: bold;
+             font-size: 20px
+         }
+         .kanju .rofiat{
+             padding: 60px 20px 80px 30px;
+             box-shadow: 0px 0px 8px rgb(145,144,144);
+             color: black;
+         }
+         .rofiat .jigan{
+             padding: 15px 0px;
+             border-bottom: 1px solid rgb(175,173,173)
+         }
+         .rofiat .jigan>a{
+             padding: 10px 1px 10px 8px;
+             font-weight: bold;
+             color: rgb(20,19,19);
+             font-size: 23px;
+         }
+         .rofiat .jigan>a:hover{
+             color: rgb(226,4,4);
+             text-decoration: none;
+             border-left: 2px solid rgb(226,4,4);
+             padding: 10px 0px 10px 8px;
+         }
+         .alaye{
+             padding: 0px 30px;
+             background-color: #F3F3EF;
+         }
+         .esther{
+             background-image: url(img/financial-releases-bg.png);
+             background-repeat: no-repeat;
+             background-position: 985px 0px;
+             padding-bottom: 30px
+         }
+         .esther .maami{
+             padding-top: 40px;
+             font-weight: bold;
+             font-size: 28px;
+             color: black;
+             text-align: center;
+                 margin: 0px 50px;
+         }
+         .esther .maami>a{
+             color:  white;
+         }
+         .esther .maami i{
+             transform: rotate( 50deg);
+             float: right;
+         }
+         .esther .dupe{
+             text-align: center
+         }
+         .esther .dupe>div{
+             display: inline-block;
+             background: white;
+             width: 400px;
+              text-align: left;
+             box-shadow: 0px 0px 5px rgb(134,132,132);
+             margin: 0px 10px
+         }
+         .esther .dupe .mope{
+             padding: 40px 16px;
+         }
+        .esther .mope:hover{
+            border-bottom: 10px solid rgb(224,2,2); 
+         }
+         .esther .mope a{
+             color: rgb(232,4,4);
+             font-size: 25px;
+         }
+         .esther .mope a:hover{
+             text-decoration: none;
+         }
+          .esther .tope{
+             text-align: center;
+         }
+         .esther .tope button{
+             background: rgb(232,3,3);
+             margin: 0px auto;
+             border: none;
+             padding: 7px 28px;
+         }
+         .esther .tope button:hover{
+             background: none;
+             border: 2px solid red;
+         }
+         .esther .tope a{
+             color: white;
+             font-size: 18px;
+         }
+         .esther .tope button:hover a{
+             text-decoration: none;
+             color: red;
+         }
+         .eni{
+             background-image: url(img/quarterly-earnings-bg.jpg);
+         }
+         .eni .iyawa{
+             background-color: rgba(0, 0, 0, 0.5)
+         }
+         .eniola{
+            text-align: center; 
+             padding: 70px 0px
+         }
+         .eniola .gogo{
+             font-weight: bold;
+             color: white;
+             font-size: 30px;
+         }
+         .eniola .cac{
+             color: white;
+             font-size: 23px;
+             padding: 20px 0px
+         }
+         .eniola .daga>div{
+             display: inline;
+         }
+         .eniola .daga a{
+             padding-right: 80px;
+             color: white;
+             font-size: 18px
+         }
+         .eniola .daga a:hover{
+             text-decoration: none;
+             color: red
+         }
+         .eniola .daga i{
+             color: red;
+             font-size: 30px;
+            padding-right: 5px
+         }
+              .eniola .bleble button{
+             background: rgb(232,3,3);
+             margin: 0px auto;
+             border: none;
+             padding: 7px 28px;
+         }
+         .eniola .bleble button:hover{
+             background: none;
+             border: 2px solid red;
+         }
+         .eniola .bleble a{
+             color: white;
+             font-size: 18px;
+         }
+        .eniola .bleble button:hover a{
+             text-decoration: none;
+             color: red;
+         }
+         .padd{
+             background: #F3F3EF;
+         }
+         .dodo{
+             margin: 0px auto;
+             width: fit-content;
+             background: white;
+             box-shadow: 0px 5px 5px rgb(153,147,147)
+         }
+         .dodo>div{
+             display: inline-block;
+         }
+         .jamiu{
+            background: red;
+             padding: 0px 10px 0px 0px;
+         }
+         .jamiu .dada{
+             font-size: 28px;
+             background: rgb(22,21,21);
+             color: white;
+            padding: 120px 80px;
+         }
+         .dodo .ogede>div{
+             display: inline-block;
+         }
+         .dodo .ogede .ode{
+             padding: 0px 40px;
+         }
+         .ogede .ode{
+             text-align: center;
+             width: fit-content;
+         }
+         .ogede i{
+             color: rgb(230,12,12);
+             font-size: 55px;
+         }
+         .ogede .ruka a{
+             color: black;
+             font-weight: bold;
+             font-size: 23px;
+         }
+         .ogede .ruka a:hover{
+             text-decoration: none;
+             color: rgb(221,3,3);
+         }
+         .pana{
+             background: white;
+             padding:30px 80px 0px 80px;
+         }
+         .doyin>div{
+             display: inline-block;
+         }
+         .doyin .nikky>div{
+             display: inline;
+         }
+         .doyin .nikky .bruno{
+             color: black;
+             font-size: 16px;
+         }
+         .doyin .papa{
+             float: right;
+         }
+         .doyin .papa ul>li{
+             display: inline;
+             margin: 0px 10px;
+             color: black;
+         }
+         .doyin .papa ul>li.onli{
+             font-weight: bold;
+             font-size: 13px;
+         }
+         .doyin .papa ul>li a{
+             background: black;
+             padding: 8px 10px;
+             border-radius: 25px;
+            color: white;
+         }
+         .doyin .papa ul>li a:hover{
+             text-decoration: none;
+             background: white;
+             color: rgb(221,3,3);
+             border: 2px solid rgb(221,3,3)
+         }
+         .pana .jare{
+             float: right
+         }
+         .pana .jare li{
+             display: inline;
+             padding: 0px 5px;
+         }
+         .pana .jare li.uzo{
+             display: none;
+         }
+         .pana .jare a{
+             color: rgb(71,70,70);
+             font-size: 13px;
+         }
+         .pana .jare a:hover{
+             color: rgb(221,3,3);
+         }
+         .pana .caut{
+             color: red;
+             font-size: 19px;
+             text-align: center;
+             font-weight: bold;
+         }
+         
+    }

@@ -1,0 +1,288 @@
+@media screen and (max-width: 760px){
+    body{
+        background: #EDF0F0;
+    }
+   .topp{
+        position: sticky;
+    top: 0px;
+     background: white;  
+         padding: 15px 0px 15px 25px;
+       z-index: 1000;
+    }
+    .topp div{
+        display: inline-block;
+    }
+   .lol>img{
+      width: 120px;  
+    }
+    .menuu{
+        position: absolute;
+        right: 20px;
+        top: 29px;
+    }
+    .menuu li{
+        font-weight: bold;
+        display: inline;
+        padding: 0px 0px 0px 29px;
+        font-size: 15px;
+    }
+   .menuu .ejo{
+       display: none;
+   }
+   #amidat{
+       text-align: center;
+       padding-top: 15px;
+       }
+   #amidat li{
+       list-style-type: none;
+        font-weight: bold;
+        font-size: 15px;
+       padding: 15px 10px 0px 10px;
+    }
+   #amidat a{
+         color: rgb(84,84,157);
+       text-decoration: none;
+    } 
+    #amidat a:hover{
+        color: rgb(48,151,48);
+    }
+    .wale{
+        width: fit-content;
+    }
+    .wale i{
+        font-size: 25px;
+    }
+   .wale button{
+       background: none;
+       border: none;
+   }
+    .akko{
+        color: black;
+        font-size: 23px;
+    }
+    .akko i{
+       color: rgb(38,176,213); 
+    }
+   .fir{
+       padding: 15px 0px 0px 0px;
+   }
+    .fir>div{
+        display: inline-block;
+        font-size: 20px;
+        color: #467DAE;
+    }
+   .fir img{
+        width: 50px;
+    }
+    .opoor div{
+        font-size: 14px;
+        color: black;
+        padding: 15px 0px 0px 0px;
+    }
+    .tain{
+        font-size: 24px;
+        color: black;
+    }
+    .tain i{
+       color: #467DAE; 
+    }
+   .tani{
+       text-align: center;
+   }
+   .tany{
+        padding: 0px 0px 30px 0px;
+    }
+    .seun img{
+        width: 90px;
+    }
+    .seun .tang{
+        color: black;
+        font-size: 15px;
+    }
+   .tang a{
+        color: #2e83d1;
+        text-decoration: underline;
+    }
+    .cole{
+        background: #0D5C91;
+        color: white;
+    }
+    .kare{
+        padding: 20px 0px 10px 0px;
+        font-size: 19px;
+    }
+   .bute .kar a{
+         color: white;
+    }
+     .bute .kar a:hover{
+         text-decoration: none;
+    }
+   .bute .kar i{
+        font-size: 18px; 
+    }
+   .bot a{
+         color: white;
+       font-size: 23px; 
+    }
+   .jon{
+       display: none;
+   }
+   .caut{
+    color: rgb(240, 52, 52);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px
+}
+}
+@media screen and (min-width:760px){
+    body{
+        background: #EDF0F0;
+    }
+     .topp{
+         position: sticky;
+         top: 0px;
+       background: white;  
+         padding: 13px 0px 13px 22px;
+         box-shadow: 0px 0px 3px #939595;
+          z-index: 1000;
+    }
+    .topp{
+        display: flex;
+        align-items: baseline
+    }
+    .lol>img{
+      width: 120px;  
+    }
+    .menuu{
+        width: 100%;
+    }
+    .menuu .ejo ul{
+        display: flex;
+        justify-content: center
+    }
+    .menuu li{
+        font-weight: bold;
+        font-size: 14px;
+        margin: 0px 20px;
+        list-style-type: none;
+    }
+   .menuu a{
+         color: rgb(84,84,157);
+       text-decoration: none;
+    } 
+    .menuu a:hover{
+        color: rgb(48,151,48);
+    }
+    .wale button{
+        font-size: 25px;
+         display: none;
+    }
+    #amidat{
+        visibility: hidden;
+        position: absolute;
+    }
+    .akko{
+        font-family: arial;
+        color: black;
+        font-size: 22px;
+        padding: 0px 50px 0px 70px;
+    }
+    .akko i{
+       color: #467DAE; 
+    }
+    .akor{
+        padding: 0px 70px 0px 70px;
+    }
+    .fir .jare{
+        width: 200px;
+    }
+    .fir>div{
+        display: inline-block;
+        font-size: 17px;
+        color: #467DAE;
+    }
+    .fir img{
+        width: 80px;
+    }
+    .opoor i{
+        transform: rotate(340deg);
+    }
+    .opoor div{
+        font-size: 15px;
+        color: black;
+        padding: 15px 0px 0px 0px;
+    }
+    .tain{
+        font-size: 25px;
+        color: black;
+        padding: 0px 50px 0px 70px;
+    }
+    .tain i{
+       color: #467DAE; 
+    }
+    .tani{
+       display: flex;
+        flex-direction: column;
+    }
+    .seun{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: baseline
+    }
+    .tany{
+        padding: 0px 100px 0px 0px;
+    }
+    .seun img{
+        width: 150px;
+    }
+    .seun .tang{
+        color: black;
+        width: 400px;
+        font-size: 16px;
+    }
+    .tang a{
+        color: #467DAE;
+        text-decoration: underline;
+    }
+    .cole{
+        background: #0D5C91;
+        color: white;
+        padding: 0px 50px 20px 50px;
+    }
+    .kare{
+        padding: 20px 0px 10px 0px;
+        font-size: 19px;
+    }
+    .bute{
+        text-align: center;
+    }
+    .bute .kar a{
+         color: white;
+    }
+     .bute .kar a:hover{
+         text-decoration: none;
+    }
+    .bute .kar i{
+        font-size: 18px; 
+    }
+    .humm{
+        float: right;
+    }
+    .bot{
+        padding: 10px 0px 0px 0px;
+    }
+    .bot a{
+         color: white;
+       font-size: 23px; 
+    } 
+    .unse{
+      display: none; 
+    }
+    .caut{
+        color: rgb(240, 52, 52);
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px
+    }
+}

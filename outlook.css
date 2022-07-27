@@ -1,0 +1,1237 @@
+@media screen and (max-width: 900px){ 
+    /*      the white  head */
+    .goin{
+         background: white;
+         position: sticky;
+         top: 0px;
+        z-index: 2000
+     }
+    .goin .container>div{
+        display: inline-block
+    }
+    .goin .container .kaba{
+        width: fit-content;
+    }
+     .goin .doings{
+         width: 6%;
+     }
+     .goin .doings img{
+         width: 100%;
+     }
+     .goin{
+         background: white;
+     }
+     
+     .goin .container{
+         padding: 10px 15px 5px 15px;
+     }
+     .goin .doings{
+         width: 6%;
+     }
+     .goin .doings img{
+         width: 100%;
+     }
+     .goin li{
+         list-style-type: none;
+         display: inline;
+         margin: 0px 2px
+     }
+     .goin .mama a{
+         font-weight: bold;
+         color: rgb(115,113,113);
+         font-size: 14px;
+         padding: 4px;
+         text-decoration: none
+     }
+     .goin button{
+         border: 1px solid  rgb(83,78,78);
+         background: white;
+         padding: 4px;
+         border-radius: 3px;
+     }
+    .goin button.acct{
+         background: #0078D4;
+          padding: 6px 20px;
+        border: none
+     }
+     .goin button.acct a{
+         color: white;
+     }
+     .goin button:hover{
+         box-shadow: 0px 3px 5px rgb(166,165,165)
+     }
+    
+    /*      girl under blurry tree with phone */
+     
+     .timba{
+         background-image: url(img/masthead-alt-06-wide-large.jpg);
+         background-size: cover;
+             
+     }
+     .timba .ofine{
+         color: rgb(243,237,237);
+         font-weight: bold;
+         font-size: 30px;
+         width: fit-content;
+         margin-top: 10px;
+         margin-bottom: 100px;
+     }
+     .timba .bigint{
+         color: white;
+         font-weight: bold;
+         font-size: 50px;
+         font-family: sans-serif;
+         padding-bottom: 10px;
+     }
+     
+     .timba .toba{
+         padding: 10px 0px;
+         margin-top: 5px;
+         margin-bottom: 20px
+     }
+     .timba .toba>div{
+         display: inline
+     }
+     .timba .toba .awa{
+         color: white;
+         font-weight: bold;
+         font-size: 20px
+     }
+     .timba .toba .oru{
+         width: 40%
+     }
+     .timba .toba .oru button{
+         border: none;
+         background: #0078D4;
+         border-radius: 5px;
+          width: 100%;
+         padding: 12px 0px;
+     }
+     .timba .toba .oru button a{
+         color: white;
+         text-decoration: none;
+         font-weight: bold;
+         font-size: 17px;
+         width: 100%;
+     }
+    
+    
+    /*      a man with cup in a car */
+     
+     .tope{
+         padding: 0px 20px
+     }
+     .doyin{
+         background-image: url(img/efficient-commuter.jpg);
+         background-size: contain;
+         background-repeat: no-repeat;
+         padding-top: 50px;
+     }
+     .doyin .then{
+         width: 70%;
+         background: white;
+         padding-right: 10px;
+        padding-top: 50px;
+         margin-left: 30px;
+     }
+     .doyin .then .kiss{
+         color: #0078D4;
+         font-size: 40px;
+         font-weight: bold;
+         margin-bottom: 30px;
+         line-height: 50px
+     }
+     .doyin .then .koin{
+         font-size: 17px;
+          margin-bottom: 10px
+     }
+    
+    /*      the multiple table */
+     .gege{
+       background: linear-gradient(to bottom, white 30%, #DCEBFA 70%)  
+     }
+     .gangan{
+         text-align: center;
+          padding-bottom: 50px
+     }
+    .gaga{
+         margin-bottom: 40px;
+          text-align: center;
+     }
+     .gaga img{
+        width: 100%
+     }
+     .gangan>div{
+         display: inline-block;
+         margin: 0px 2px;
+          width: 18%;
+     }
+     .gangan .dami .baba{
+         background: #0078D4;
+         text-align: center;
+         padding: 13px 0px;
+         color: white;
+         font-size: 13px;
+        border-radius: 6px;
+         margin-bottom: 15px
+     }
+     .gangan .dami .sayo{
+         position: absolute;
+         font-size: 12px;
+             color: #0078D4;
+         visibility: hidden;
+     }
+    .gangan .dami:hover .baba{
+         color: #0078D4;
+         background: white;
+     }
+     .gangan .dami:hover .kan{
+         visibility: visible
+     }
+     .gangan .dami:hover .kang{
+         visibility: visible
+     }
+     .gangan .dami:hover .kangi{
+         visibility: visible
+     }
+     .gangan .dami:hover .kangchi{
+         visibility: visible
+     }
+     .gangan .dami:hover .chichi{
+         visibility: visible
+     }
+    
+    /*      the moveable icon */
+     .fint{
+         padding: 0px 15px;
+         background: linear-gradient(to bottom, rgb(217,233,249) , rgba(217,233,249,0.2) );  
+     }
+     .tolu{
+         background-image: url(img/security-small.jpg);
+         background-size: cover;
+         background-repeat: no-repeat;
+         padding-top: 500px;
+         padding-bottom: 100px;
+     }
+     .fint .tunji{
+         color: white;
+         font-size: 60px;
+         font-weight: bold;
+         line-height: 50px;
+         margin-bottom: 40px
+     }
+     .fint .tola{
+         color: white;
+         font-size: 18px;
+         font-weight: bold;
+         margin-bottom: 40px
+     }
+     .fint table{
+         color: white;
+     }
+     .fint table i{
+         font-size: 50px
+     }
+     .fint table td{
+         padding: 30px 20px;
+         font-weight: bold;
+     }
+     .fint table .cag{
+         border-left: 1px solid white;
+         font-size: 15px
+     }
+    
+    /*      ordnarily big */
+     .fom{
+         margin-top: 80px;
+         margin-bottom: 80px;
+     }
+     .fomi{
+        text-align: center; 
+     }
+     .fomi .bose{
+          text-align: center; 
+         font-size: 50px;
+         font-weight: bold;
+         color: black;
+         margin-bottom: 20px;
+     }
+     .fomi .indi{
+          text-align: center; 
+         font-size: 50px;
+         font-weight: bold;
+         color: #0078D4
+     }
+    
+    /*      the transparent carousel */
+     #jolly{
+         margin-bottom: 50px
+     }
+     #jolly .carousel-item{
+         text-align: center;
+     }
+    #jolly .carousel-item>div{
+        display: inline;
+    }
+          #jolly .carousel-item img{
+         width: 50%;
+              margin-right: 30px;
+              box-shadow: 0px 30px 50px rgb(217,208,208)
+     }
+     #jolly .carousel-item .exc{
+         color: green;
+         font-size: 28px;
+         font-weight: bold;
+     }
+      #jolly .carousel-item .pow{
+         color: #B6472A;
+         font-size: 28px;
+         font-weight: bold;
+     }
+      #jolly .carousel-item .wor{
+         color: #0078D4;
+         font-size: 28px;
+         font-weight: bold;
+     }
+    
+    /*      the quote */
+     .quote{
+         font-size: 18px;
+         margin-bottom: 50px
+     }
+    
+         
+/*      the rotating pictures */
+     .rotat{
+         width: 20%;
+         text-align: center;
+     }
+     .rotat img{
+         width: 100%
+     }
+    
+    /*      mother and child */
+     .dada{
+         padding: 0px 20px 0px 20px;
+         margin-bottom: 50px
+     }
+     .clacla{
+       background-image: url(img/mother-and-child-reunion.jpg);  
+         background-size: cover;
+     }
+     .dodo{
+         width: 70%;
+         color: #0078D4;
+         font-weight: bold;
+         font-size: 50px;
+         line-height: 50px;
+         margin-top: 400px;
+         margin-bottom: 50px
+     }
+     .iyasi{
+         width: 80%;
+         padding: 20px 20px 20px 2px;
+         font-size: 19px;
+         color: rgb(94,93,93);
+         background: white;
+     }
+     .only{
+         margin-left: 0px
+     }
+    
+    /*      the section for phone */
+     .trip{
+         text-align: center
+     }
+    .trip .noki{
+         width: 50%;
+         margin: 30px auto;
+     }
+    .trip .noki img{
+         width: 100%
+     }
+    .trip .nla{
+         color: #0078D4;
+         font-size: 30px;
+         line-height: 30px;
+         font-weight: bold;
+         text-align: center;
+     }
+     .drip{
+         text-align: center;
+         margin-bottom: 50px
+     }
+   .drip  .noki{
+         width: 50%;
+        margin: 30px auto;
+     }
+     .drip .noki img{
+         width: 100%
+     }
+    .drip .nla{
+         color: #0078D4;
+         font-size: 30px;
+         line-height: 30px;
+         font-weight: bold;
+     }
+    
+    
+    /*      the laughing chinese woman */
+     .tose{
+         margin-bottom: 600px
+     }
+     .tose .tob{
+         width: 90%;
+         position: absolute;
+     }
+     .tose .tob img{
+         width: 100%
+     }
+     .tose .omo{
+         background: #0078D4;
+         width: fit-content;
+         width: 92%;
+         padding: 100px 0px 50px 50px;
+         float: right;
+         margin-top: 200px
+      }
+     .tose .koba{
+         color: white;
+         padding: 10px
+     }
+     .tose .koba .bigbig{
+         font-size: 30px;
+         line-height: 30px;
+         width: 80%;
+         margin-bottom: 30px
+     }
+     .tose .koba .koka{
+         font-size: 17px
+     }
+    
+    /*      the settings part */
+     .chin{
+         margin-bottom: 50px
+     }
+     .kiekie ul{
+         width: 90%;
+         margin: 0px auto;
+         text-align: center;
+     }
+     .kiekie li{ 
+         list-style-type: none;
+         margin: 20px 0px
+     }
+     .kiekie .ike{
+         color: #0078D4;
+         font-size: 25px
+     }
+     .kiekie .bol{
+         color: black;
+         font-size: 20px
+     }
+     .kiekie .tim{
+         color: rgb(47,46,46);
+         font-size: 17px;
+     }
+    
+    
+    /*      the girl resting on a wall */
+     .coff{
+        margin-bottom: 50px
+     }
+     .coff .bom{
+        width: 100%
+    }
+     .coff .bom img{
+        width: 100%
+    }
+     .koko{
+         margin: 0px auto;
+         background: white;
+         
+     }
+     .koko .wel{
+         font-size: 70px;
+         line-height: 70px;
+         text-align: center;
+         color: #0078D4;
+         width: 80%;
+          margin: 0px auto 20px auto
+     }
+     .koko  .arin{
+         color: rgb(49,48,48);
+         width: 50%;
+         font-size: 24px;
+         line-height: 24px;
+         margin: 0px auto 50px auto;
+     }
+     .koko  .mik{
+         margin: 0px auto;
+         width: fit-content;
+     }
+     
+     .koko  .mik button{
+         border: none;
+         background: #0078D4;
+         border-radius: 5px;
+         padding: 15px 30px;
+        transition: all 0.4s ease-in-out 0s
+     }
+     .koko  .mik button:hover{
+         background: white;
+     }
+     .koko  .mik button:hover a{
+         color: #0078D4;
+     }
+     .koko  .mik button a{
+         text-decoration: none;
+         color: white;
+         font-size: 25px;
+         padding: 10px;
+         font-weight: bold
+     }
+   
+     .coff .toni{
+         width: fit-content;
+         background: white;
+         padding: 100px 0px;
+         text-align: center
+     }
+     .coff .toni ul>li{
+         width: 9%;
+         list-style-type: none;
+         display: inline-block;
+         margin-right: 15px
+     }
+     .coff .toni ul>li img{
+         width: 100%
+     }
+    
+    /*       the laughing guy */
+     .wunmi{
+         margin-bottom: 500px
+     }
+     .wunmi .buumi{
+         width: 100%;
+     }
+     .wunmi .buumi img{
+         width: 100%;
+     }
+     .wunmi .kira{
+         width: 92%;
+         position: absolute;
+         background: white;
+         padding: 30px 30px 30px 30px;
+     }
+     .wunmi .kira .ode{
+         color: #0078D4;
+         font-weight: bold;
+         font-size: 50px;
+         line-height: 50px;
+         margin-bottom: 40px;
+     }
+     .wunmi .kira .ore{
+        font-size: 18px ;
+         color: rgb(98,96,96)
+     }
+     .wunmi .kira .ore a{
+         text-decoration: none;
+         color: #0078D4;
+         font-weight: bold;
+     }
+     .wunmi .kira .ore a:hover{
+         color: #0078D4;
+     }
+     .wunmi .kira .ore a:hover i{
+         padding-left: 12px;
+     }
+    
+    /*      single icon*/
+     .arn {
+         width: 10%;
+         text-align: center;
+         margin: 0px auto 30px auto
+     }
+     .arn img{
+         width: 100%;
+     }
+     
+     
+     .dana{
+       border-top: 1px solid silver ;
+         padding: 30px 0px
+     }
+     .dana ul{
+           text-align: center;
+         width: 100%;
+         margin: 0px auto;
+     }
+     .dana ul>li{
+         list-style-type: none;
+         display: inline-block;
+         margin: 0px 10x; 
+         padding: 20px
+     }
+     .dana ul>li a{
+         color: rgb(79,78,78);
+         font-size: 18px
+     }
+    .dana ul>li a:hover{
+        color: #0078D4
+    }
+    
+    /*      last line */
+     .seun{
+         background: black;
+         padding: 50px 0px
+     }
+     .seun .mike{
+         width: fit-content;
+         margin: 0px auto 30px auto;
+         
+     }
+     .seun .mike a{
+         color: white;
+         font-size: 20px;
+         text-decoration: none
+     }
+     .seun ul{
+         border-top: 1px solid white;
+         padding: 50px 0px;
+         text-align: center;
+         
+     }
+     .seun ul>li{
+         list-style-type: none;
+         display: inline-block;
+         margin: 0px 15px;
+         color: white;
+         font-size: 13px;
+         padding: 15px 0px;
+     }
+     .seun ul>li a{
+         color: white
+     }
+    
+    .caut{
+        color:  rgb(234,64,64);
+         font-weight: bold;
+         text-align: center;
+         font-size: 17px;
+     }
+}
+ @media screen and (min-width:900px){
+/*      the white  head */
+     .goin{
+         background: white;
+         position: sticky;
+         top: 0px;
+         z-index: 2000
+     }
+     .goin .container{
+         padding: 10px 15px 5px 15px;
+     }
+     .goin .container>div{
+        display: inline-block
+    }
+     .goin .container .kaba{
+         float: right;
+    }
+     .goin .doings{
+         width: 4%;
+     }
+     .goin .doings img{
+         width: 100%;
+     }
+     .goin li{
+         list-style-type: none;
+         display: inline;
+         margin: 0px 2px;
+     }
+     .goin .mama a{
+         font-weight: bold;
+         color: rgb(115,113,113);
+         font-size: 15px;
+         padding: 10px;
+         text-decoration: none
+     }
+     .goin button{
+         border: 1px solid  rgb(83,78,78);
+         background: white;
+         padding: 10px ;
+         border-radius: 5px;
+     }
+     .goin button.acct{
+         background: #0078D4;
+          padding: 10px 20px;
+     }
+     .goin button.acct a{
+         color: white;
+     }
+     .goin button:hover{
+         box-shadow: 0px 3px 5px rgb(166,165,165)
+     }
+     
+/*      girl under blurry tree with phone */
+     
+     .timba{
+         background-image: url(img/masthead-alt-06-wide-large.jpg);
+         background-size: cover;
+     }
+     .timba .ofine{
+         color: rgb(243,237,237);
+         font-weight: bold;
+         font-size: 30px;
+         width: fit-content;
+         margin-top: 10px;
+         margin-bottom: 200px;
+     }
+     .timba .bigint{
+         color: white;
+         font-weight: bold;
+         font-size: 65px;
+         width: 55%;
+         font-family: sans-serif;
+         padding-bottom: 10px;
+     }
+     .timba .nigg{
+       border-bottom: 1px solid white;  
+     }
+     .timba .toba{
+         padding: 10px 0px;
+         margin-top: 5px;
+         margin-bottom: 20px
+     }
+     .timba .toba>div{
+         display: inline
+     }
+     .timba .toba .awa{
+         color: white;
+         font-weight: bold;
+         font-size: 20px
+     }
+     .timba .toba .oru{
+         float: right;
+         width: 40%
+     }
+     .timba .toba .oru button{
+         border: none;
+         background: #0078D4;
+         border-radius: 5px;
+          width: 100%;
+         padding: 12px 0px;
+     }
+     .timba .toba .oru button a{
+         color: white;
+         text-decoration: none;
+         font-weight: bold;
+         font-size: 17px;
+         width: 100%;
+     }
+/*      a man with cup in a car */
+     
+     .tope{
+         padding: 100px 20px
+     }
+     .doyin{
+         background-image: url(img/efficient-commuter.jpg);
+         background-size: contain;
+         background-repeat: no-repeat;
+         padding-top: 80px;
+     }
+     .doyin .then{
+         width: 40%;
+         background: white;
+         padding-right: 100px;
+        padding-top: 50px;
+         margin-left: 100px;
+     }
+     .doyin .then .kiss{
+         color: #0078D4;
+         font-size: 63px;
+         font-weight: bold;
+         margin-bottom: 15px;
+         line-height: 70px
+     }
+     .doyin .then .koin{
+         font-size: 17px;
+     }
+     
+/*      the multiple table */
+     .gege{
+       background: linear-gradient(to bottom, white 30%, #DCEBFA 70%)  
+     }
+     .gaga{
+         margin-bottom: 40px;
+          text-align: center;
+     }
+     .gaga img{
+        width: 80%
+     }
+     .gangan{
+         text-align: center;
+         padding-bottom: 80px
+     }
+     .gangan>div{
+         display: inline-block;
+         margin: 0px 2px;
+          width: 18%;   
+     }
+     .gangan .dami .baba{
+         background: #0078D4;
+         text-align: center;
+         padding: 13px 0px;
+         color: white;
+         font-size: 20px;
+        border-radius: 6px;
+         margin-bottom: 15px
+     }
+     .gangan .dami .sayo{
+         font-size: 12px;
+         color: #0078D4;
+         visibility: hidden;
+         width: 20%;
+         position: absolute;
+     }
+     .gangan .dami:hover .baba{
+         color: #0078D4;
+         background: white;
+     }
+     .gangan .dami:hover .kan{
+         visibility: visible
+     }
+     .gangan .dami:hover .kang{
+         visibility: visible
+     }
+     .gangan .dami:hover .kangi{
+         visibility: visible
+     }
+     .gangan .dami:hover .kangchi{
+         visibility: visible
+     }
+     .gangan .dami:hover .chichi{
+         visibility: visible
+     }
+     
+/*      the moveable icon */
+     .fint{
+         margin-bottom: 50px ;
+         padding: 0px 15px;
+         background: linear-gradient(to bottom, rgb(217,233,249) , rgba(217,233,249,0.2) );  
+     }
+     .tolu{
+         background-image: url(img/security-small.jpg);
+         background-size: cover;
+         padding: 100px 50px
+     }
+     .fint .tunji{
+         width: 50%;
+         color: white;
+         font-size: 73px;
+         font-weight: bold;
+         line-height: 73px;
+         margin-bottom: 40px
+     }
+     .fint .tola{
+         width: 40%;
+         color: white;
+         font-size: 18px;
+         font-weight: bold;
+         margin-bottom: 40px
+     }
+     .fint table{
+         color: white;
+          width: 40%;
+     }
+     .fint table i{
+         font-size: 50px
+     }
+     .fint table td{
+         padding: 30px 20px;
+         font-weight: bold;
+     }
+     .fint table .cag{
+         border-left: 1px solid white;
+         font-size: 15px
+     }
+/*      ordnarily big */
+     .fom{
+         margin-top: 100px;
+         margin-bottom: 100px;
+     }
+     .fomi{
+        text-align: center; 
+     }
+     .fomi .bose{
+          text-align: center; 
+         font-size: 70px;
+         font-weight: bold;
+         color: black
+     }
+     .fomi .indi{
+          text-align: center; 
+         font-size: 70px;
+         font-weight: bold;
+         color: #0078D4
+     }
+     
+/*      the transparent carousel */
+     #jolly{
+         margin-bottom: 50px;
+         
+     }
+     #jolly .carousel-item{
+         text-align: center;
+     }
+          #jolly .carousel-item img{
+         width: 55%;
+              margin-bottom: 50px;
+              box-shadow: 0px 30px 10px rgb(217,208,208);
+              z-index: -2000;
+     }
+     #jolly .carousel-item .exc{
+         color: green;
+         font-size: 28px;
+         font-weight: bold;
+     }
+      #jolly .carousel-item .pow{
+         color: #B6472A;
+         font-size: 28px;
+         font-weight: bold;
+     }
+      #jolly .carousel-item .wor{
+         color: #0078D4;
+         font-size: 28px;
+         font-weight: bold;
+     }
+/*      the quote */
+     .quote{
+         font-size: 18px;
+         text-align: center;
+         width: 35%;
+        margin-bottom: 50px
+     }
+     
+/*      the rotating pictures */
+     .rotat{
+         width: 10%;
+         text-align: center;
+         margin-bottom: 100px
+     }
+     .rotat img{
+         width: 100%;
+     }
+     
+/*      mother and child */
+     .dada{
+         padding: 0px 20px 0px 20px;
+         margin-bottom: 100px
+     }
+     .clacla{
+       background-image: url(img/mother-and-child-reunion.jpg);  
+         background-size: cover;
+     }
+     .dodo{
+         width: 50%;
+         color: #0078D4;
+         font-weight: bold;
+         font-size: 70px;
+         line-height: 70px;
+         margin-top: 500px;
+         margin-bottom: 50px
+     }
+     .iyasi{
+         width: 50%;
+         padding: 50px 100px 50px 2px;
+         font-size: 19px;
+         color: rgb(94,93,93);
+         background: white;
+     }
+     .only{
+         margin-left: 100px
+     }
+/*      the section for phone */
+     .trip{
+         margin-bottom: 100px
+     }
+     .trip>div{
+         display: inline-block
+     }
+   .trip  .noki{
+         width: 35%;
+         float: right;
+         margin-right: 150px;
+     }
+   .trip  .noki img{
+         width: 100%
+     }
+   .trip  .nla{
+         color: #0078D4;
+         font-size: 50px;
+         line-height: 50px;
+         font-weight: bold;
+         width: 40%;
+         padding-top: 100px;
+       
+     }
+     .drip{
+          margin-bottom: 500px
+     }
+   .drip  .noki{
+         width: 35%;
+         float: left;
+     }
+     .drip .noki img{
+         width: 100%
+     }
+    .drip .nla{
+         color: #0078D4;
+         font-size: 50px;
+         line-height: 50px;
+         font-weight: bold;
+         width: 35%;
+         padding-top: 120px;
+        margin-right: 150px;
+        float: right;
+     }
+/*      the laughing chinese woman */
+     .tose{
+         margin-bottom: 600px;
+     }
+     .tose .tob{
+         width: 50%;
+         position: absolute;
+     }
+     .tose .tob img{
+         width: 100%
+     }
+     .tose .omo{
+         background: #0078D4;
+         width: fit-content;
+         width: 60%;
+         padding: 100px 200px;
+         float: right;
+         margin-top: 80px
+      }
+     .tose .koba{
+         color: white;
+         padding: 10px
+     }
+     .tose .koba .bigbig{
+         font-size: 40px;
+         line-height: 40px;
+         margin-bottom: 30px
+     }
+     .tose .koba .koka{
+         font-size: 19px
+     }
+/*      the settings part */
+     .chin{
+         margin-bottom: 50px
+     }
+     .kiekie ul{
+         width: 50%;
+         margin: 0px auto;
+         text-align: center;
+     }
+     .kiekie li{ 
+         list-style-type: none;
+         margin: 20px 0px
+     }
+     .kiekie .ike{
+         color: #0078D4;
+         font-size: 25px
+     }
+     .kiekie .bol{
+         color: black;
+         font-size: 20px
+     }
+     .kiekie .tim{
+         color: rgb(47,46,46);
+         font-size: 17px;
+     }
+     
+/*      the girl resting on a wall */
+     .coff{
+        background-image: url(img/coffee-shop-exterior.jpg);
+         background-size: cover;
+          margin-bottom: 50px
+     }
+     .koko{
+         margin: 0px auto;
+         width: 50%;
+         margin-top: 400px;
+        margin-bottom: 200px
+     }
+     .koko .wel{
+         font-size: 80px;
+         line-height: 70px;
+         font-weight: bold;
+         text-align: center;
+         color: white;
+         margin-bottom: 20px;
+     }
+     .koko  .arin{
+         color: white;
+         width: 50%;
+         font-size: 30px;
+         line-height: 30px;
+         margin: 0px auto;
+          margin-bottom: 50px;
+     }
+     .koko  .mik{
+         margin: 0px auto;
+         width: fit-content;
+     }
+     
+     .koko .mik button{
+         border: none;
+         background: none;
+         border: 2px solid white;
+         border-radius: 5px;
+         padding: 15px 30px;
+         transition: all 0.4s ease-in-out 0s
+     }
+     .koko  .mik button:hover{
+         background: white;
+         
+     }
+     .koko  .mik button:hover a{
+         color: #0078D4;
+     }
+     .koko  .mik button a{
+         text-decoration: none;
+         color: white;
+         font-size: 25px;
+         padding: 10px;
+         font-weight: bold
+     }
+     .bom{
+         display: none;
+     }
+     .coff .toni{
+         width: fit-content;
+         background: white;
+         margin-left: 180px;
+         padding: 100px 100px
+     }
+     .coff .toni ul>li{
+         width: 5%;
+         list-style-type: none;
+         display: inline-block;
+         margin: 0px 30px
+     }
+     .coff .toni ul>li img{
+         width: 100%
+     }
+/*       the laughing guy */
+     .wunmi{
+        margin-bottom: 850px 
+     }
+     .wunmi .buumi{
+         width: 60%;
+         height: 680px;
+         float: right;
+     }
+     .wunmi .buumi img{
+         width: 100%;
+         height: 100%;
+     }
+     .wunmi .kira{
+         width: 50%;
+         position: absolute;
+         background: white;
+         padding: 50px 100px 50px 50px;
+         margin: 120px 0px 0px 100px
+     }
+     .wunmi .kira .ode{
+         color: #0078D4;
+         font-weight: bold;
+         font-size: 80px;
+         line-height: 80px;
+         margin-bottom: 60px;
+     }
+     .wunmi .kira .ore{
+        font-size: 19px ;
+         color: rgb(98,96,96)
+     }
+     .wunmi .kira .ore a{
+         text-decoration: none;
+         color: #0078D4;
+     }
+     .wunmi .kira .ore a:hover{
+         color: #045899;
+     }
+     .wunmi .kira .ore a:hover i{
+         padding-left: 12px;
+     }
+     
+/*      single icon*/
+     .arn {
+         width: 4%;
+         text-align: center;
+         margin: 0px auto 30px auto
+     }
+     .arn img{
+         width: 100%;
+     }
+     
+     
+     .dana{
+       border-top: 1px solid silver ;
+         padding: 50px 0px;
+         margin-bottom: 100px
+     }
+     .dana ul{
+           text-align: center;
+         width: 60%;
+         margin: 0px auto;
+     }
+     .dana ul>li{
+         list-style-type: none;
+         display: inline-block;
+         margin: 0px 20px; 
+         padding: 20px
+     }
+     .dana ul>li a{
+         color: rgb(79,78,78);
+         font-size: 19px
+     }
+     
+     
+/*      last line */
+     .seun{
+         background: black;
+         padding: 50px 0px
+     }
+     .seun .mike{
+         width: fit-content;
+         float: left
+     }
+     .seun .mike a{
+         color: white;
+         font-size: 20px;
+         text-decoration: none
+     }
+     .seun ul{
+         float: right;
+     }
+     .seun ul>li{
+         list-style-type: none;
+         display: inline;
+         margin: 0px 15px;
+         color: white;
+         font-size: 13px
+     }
+     .seun ul>li a{
+         color: white
+     }
+     .caut{
+        color:  rgb(241,52,52);
+         font-weight: bold;
+         text-align: center;
+         font-size: 17px;
+         margin-top: 50px
+     }
+}

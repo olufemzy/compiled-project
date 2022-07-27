@@ -1,0 +1,933 @@
+@media screen and (max-width:760px){
+    .okee{
+     background: #B0D235;
+ }
+ .oke{
+     font-size: 11px;
+     width: fit-content;
+ }
+ .act{
+     background: white;
+ }
+    .ke{
+    color: black;
+     }
+    .ke:hover{
+         background: white;
+         border-radius: 0px;
+         color: black;
+     }
+     .reg{
+        display: none;
+ }
+   
+     .apo{
+         width: 180px;
+         height: 45px;
+         padding-left: 20px;
+     }
+    .tar{
+         width: fit-content;
+        float: left;
+        margin-top: 20px;
+        border: none;
+        background: white;
+     }
+     .wale i{
+         font-size: 20px;
+         line-height: 7px;
+     }
+     #ayomi{
+        background: #f1eded;
+         width: 400px;
+         position: absolute;
+         top: 100px;
+         z-index: 5;
+    }
+    .troo{
+        width: 100%;
+       background: orange;
+        margin: 0px 0px 0px 0px;
+    }
+    .troo>div{
+        width: 200px;
+        display: inline-block;
+        text-align: center;
+        padding: 20px 0px 15px 0px;
+    }
+    .kare>div{
+        display: inline-block;
+    }
+    .kar{
+       background: #F6F6F6; 
+    }
+    .troo a{
+        text-decoration: none;
+        color: black;
+    }
+    .jembe div.seyi{
+        padding: 12px;
+        border-bottom: 1px solid rgb(213,208,208);
+        border-top: 1px solid rgb(213,208,208);
+    }
+    .jembe i.fa-angle-down{
+        color: rgb(166,163,163);
+        float: right;
+    }
+    .jembe i.fa-angle-right{
+        color: rgb(166,163,163);
+    }
+    .jembe a{
+        color: rgb(115,111,111);
+        width: 200px;
+        padding: 0px 50px 0px 0px;
+    
+    }
+    .jembe a:active{
+        text-decoration: none;
+    }
+    .jembe a:hover{
+        text-decoration: none;
+        color: rgb(221,130,21);
+    }
+    #eze>div{
+      padding: 5px 0px 5px 12px;  
+    }
+     #juk>div{
+      padding: 5px 0px 5px 12px;  
+    }
+     #jey>div{
+      padding: 5px 0px 5px 12px;  
+    }
+     #jon>div{
+      padding: 5px 0px 5px 12px;  
+    }
+     #prm>div{
+      padding: 5px 0px 5px 12px;  
+    }
+    .ole{
+         padding-top: 14px;
+          padding-bottom: 15px;
+     }
+    .seac>div{
+         display: inline-block;
+     }
+    .seac{
+         width: fit-content;
+         float: right;
+         margin-top: -40px;
+     }
+    .woo{
+        display: none;
+    }
+    .this{
+        font-size: 23px;
+        padding-right: 20px;
+        color: black;
+    }
+    .this:hover{
+        color: black;
+    }
+     .thisi:hover{
+        color: black;
+    }
+    .thisi{
+        font-size: 23px;
+        color: black;
+    }
+     .gan{
+         position: absolute;
+         visibility: hidden;
+     }
+    .yobo{
+         background: #75B343;
+         color: white;
+         padding: 8px 0px;
+     }
+    .iyo>a{
+         color: white;
+     }
+    .iti{
+         background: #F3F3F3;
+     }
+     .itit>div{
+         display: inline-block;
+         text-align: center;
+     }
+     .awon{
+         position: relative;
+         padding: 10px 20px;
+         width: fit-content;
+     }
+    .awo{
+         text-align: center;
+         width: 100px;
+        font-size: 14px;
+     }
+     .ket{
+         width: 100%;
+         padding: 0px 50px 60px 0px;
+          height: 50px;
+     }
+     .ket img{
+         
+         position: absolute;
+         height: 50px;
+         transition: height 0.2s ease-in 0s;
+     }
+      .ket>img:hover{
+          position: absolute;
+         height: 55px;
+     }
+    .aye{
+         width: 100%;
+         height: 100%
+     }
+    .thr{
+        display: none;
+    }
+    
+    .ayee img{
+          width: 100%;
+     }
+     .cowe{
+         width: fit-content;
+         position: relative;
+     }
+    .cowe li{
+        background: orange;
+    }
+    .got{
+         padding: 10px 0px 10px 0px;
+     }
+     .dea{
+         text-align: center;
+     }
+    .pho{
+         padding: 0px 15px 10px 15px;
+     }
+    .fa:hover{
+         color: #E6981A;
+     }
+     .pho .fa-angle-left{
+         float: left;
+          font-size: 35px;
+          margin-top: 120px;
+     }
+    .pho .fa-angle-right{
+         float: right;
+         font-size: 35px;
+         margin-top: 120px;
+     }
+     
+     .tao{
+         width: 200px;
+         padding: 10px;
+     }
+     .taoma{
+         padding: 9px;
+        text-align: center;
+         box-shadow: 0px 0px 5px rgb(113,111,111);
+         transition: box-shadow 0.4s;
+         border-radius: 5px;
+     }
+     .taoma:hover{
+          box-shadow: 0px 0px 15px rgb(75,74,74);
+     }
+     .roj{
+         width: fit-content;
+         padding: 15px;
+     }
+     .roj img{
+         width: 100%;
+     }
+     .dare{
+         padding: 0px 0px 10px 0px;
+     }
+     .roje{
+         color: black;
+     }
+     .roje:hover{
+         color: #E6981A;
+     }
+     .rojo button{
+         border: none;
+         background: #E6981A;
+         border-radius: 5px;
+         padding: 5px 10px;
+     }
+     .rojo button:hover{
+          background: #dd8d0c;
+     }
+    .tak{
+        display: none;
+    }
+    .amidat{
+        display: none;
+     }
+    .malo{
+         background: #F3F3F3;
+         padding: 20px 0px 70px 0px;
+    }
+    .pius{
+         text-align: center;
+        padding-bottom: 20px;
+     }
+     .malo img{
+          width: 100%;
+     }
+    .malo li{
+        background: orange;
+    }
+     .ewe{
+          background: #B0D235;
+         padding: 30px;
+     }
+     .arin{
+         text-align: center;
+         padding: 0px 0px 30px 0px;
+     }
+     .uzo{
+        text-align: center; 
+     }
+     .bles{
+         padding: 0px 160px 15px 160px;
+     }
+     .fiyin{
+         width: 70px;
+     }
+     .fiyin img{
+         width:  100%;
+     }
+    .uzo p{
+         font-size: 15px;
+     }
+     .uzo button{
+         border: none;
+         background: #fbaa27;
+         padding: 5px 15px 5px 15px;
+         border-radius: 5px;
+     }
+     .uzo button:hover{
+         background: #e49a22;
+     }
+    .care{
+         padding: 0px 15px 40px 15px;
+     }
+      .care .fa-angle-left{
+         float: left;
+          font-size: 35px;
+          margin-top: 240px;
+     }
+     .care .fa-angle-right{
+         float: right;
+         font-size: 35px;
+         margin-top: 240px;
+     }
+     .tren{
+         text-align: center;
+         padding: 0px 0px 30px 0px;
+     }
+    
+     .fada{
+         width: 100%;
+         border-bottom: 5px solid #B0D235;
+         box-shadow: 0px 0px 10px rgb(179,175,175);
+         padding: 0px 0px 30px 0px;
+     }
+     .fada img{
+         height: 210px;
+        width: 100%; 
+         padding-bottom: 15px
+     }
+      .sme{
+          padding: 0px 2px 0px 10px;
+         font-size: 17px;
+     }
+     .sma{
+         font-size: 13px;
+         padding: 0px 2px 20px 10px;
+         color: #bbb6b6;
+     }
+     .smar{
+         text-align: center;
+     }
+     .smar>button{
+        border: none;
+         background: #fbaa27;
+         padding: 10px 15px 10px 15px;
+         border-radius: 5px;
+     }
+      .smar>button:hover{
+         background: #e49a22;  
+     }
+    .ileipamo{
+         background: #B0D235;
+         padding: 30px 0px 10px 0px;
+     }
+    .ileipamo .row>div{
+        display: inline-block;
+    }
+     .bigi{
+         font-size: 15px;
+         padding: 18px 0px 0px 0px;
+     }
+    .bafi>div{
+         display: inline-block;
+     }
+     .bigil{
+         width: 220px;
+         padding: 15px;
+     }
+      .bigil img{
+         width: 100%;
+     }
+    .laslas{
+         background: #F3F3F3;
+     }
+     .laslas h4{
+         padding: 0px 0px 10px 0px;
+     }
+     
+     .laslas a{
+         font-size: 14px;
+         width: fit-content;
+         text-decoration: none;
+         color: black;
+     }
+     .laslas a:hover{
+         color: green;
+     }
+    .isale>div{
+         display: block;
+     }
+     .scoo{
+         padding: 0px 0px 20px 0px;
+     }
+     .idanimo{
+         width: 130px; 
+     }
+     .idanimo>img{
+         width: 100%;
+     }
+     .scaa{
+         width: fit-content;
+         padding: 0px 0px 20px 0px;
+     }
+     .scaa>div{
+         display: inline-block;
+     }
+     .mede{
+         background: #a3c234;
+         padding: 10px 2px 10px 12px;
+         border-radius: 50px;
+         width: 40px;
+     }
+      .mede:hover{
+        background: #E6981A;
+     }
+     
+     .mede img{
+         width: 100%;
+     }
+     .mede>i{
+         color: white;
+         font-size: 15px;
+     } 
+    .mede>i:hover{
+        color: black;
+     }
+    .atinlo{
+        padding: 0px 0px 10px 0px;
+    }
+     .atinlo>div{
+         display: inline;
+     }
+     .kare{
+         padding: 0px 25px 0px 0px;
+     }
+     .owo>div{
+         text-align: center;
+     }
+}
+.catch{
+    color:  #fc0202;
+     font-weight: bold;
+     text-align: center;
+     font-size: 17px
+ }
+ @media screen and (min-width:760px){
+ .okee{
+     background: #B0D235;
+ }
+     .reg>div{
+         display: inline;
+     }
+     .si{
+         width: fit-content;
+         border-right: 2px solid black;
+     }
+     .reg{
+         float: right;
+        margin-top: -30px; 
+     }
+     .reg button{
+         padding: 0px 5px;
+         font-size: 14px;
+     }
+     .sig{
+         background: #FAA61C;
+         border-radius: 2px;
+         border: none;
+         outline: none;
+     }
+     .isig{
+         border: none;
+         background: #B0D235;
+     }
+     .oke{
+         font-size: 13px;
+         width: fit-content;
+     }
+     .act{
+         background: white;
+     }
+     .ke{
+         color: black;
+     }
+     .ke:hover{
+         background: white;
+         border-radius: 0px;
+         color: black;
+     }
+     div.ole{
+         background: white;
+         padding: 14px 20px 15px 20px;
+         position: sticky;
+         top: 1px;
+         z-index: 1;
+         box-shadow: 0px 0px 3px rgb(200,197,197);
+     }
+     .tar{
+         position: absolute;
+         visibility: hidden;
+     }
+      .mayo{ 
+    display: none;
+    }
+     .apo{
+         height: 43px;
+     }
+     .gan{
+         position: absolute;
+         margin: -30px 10px 0px 190px;
+         width: fit-content;
+         padding-left: 20px; 
+     }
+     .gan>div{
+         display: inline-block;
+         padding-right: 20px;
+     }
+     div.akoko{
+         position: relative;
+     }
+     .ala{
+         font-size: 14px;
+     }
+     .ala a{
+        color: black; 
+     }
+      .ala a:hover{
+        text-decoration: none;
+     }
+     .ala:hover{
+         color: #FAA61C;
+     }
+     .fir{
+         visibility: hidden;
+         background: white;
+         position: absolute;
+         padding: 20px 20px 0px 0px;
+         border-radius: 8px;
+         box-shadow: 0px 0px 3px rgb(200,197,197);
+     }
+     .fir li{
+         list-style-type: none;
+         width: 220px;
+         font-size: 14px;
+         padding: 5px 0px;
+     }
+      .fir li:hover{
+         color: #FAA61C;
+         width: 220px;
+         padding: 5px 0px;
+     }
+     .akoko:hover .fir{
+         display: block;
+         visibility: visible;
+     }
+      .akok:hover .fir{
+         display: block;
+          visibility: visible;
+     }
+      .ako:hover .fir{
+         display: block;
+          visibility: visible;
+     }
+      .ak:hover .fir{
+         display: block;
+          visibility: visible;
+     }
+      .abe:hover .fir{
+         display: block;
+          visibility: visible;
+          position: absolute;
+     }
+      .abbe:hover .fir{
+         display: block;
+          visibility: visible;
+          position: absolute;
+     }
+     .seac{
+         width: fit-content;
+         float: right;
+         margin-top: -45px;
+         visibility: visible;
+     }
+     .seac>div{
+         display: inline-block;
+     }
+     .tio{
+         padding-right: 8px;
+     }
+     .this{
+         color: black;
+         font-size: 18px;
+         margin-left: -25px;
+     }
+      .thisi{
+         color: black;
+          font-size: 18px;
+     }
+     .seac input{
+          background: #F4F4F4;
+         border-radius: 20px;
+         border: none;
+         padding: 2px 30px 4px 20px;
+         font-size: 16px;
+     }
+     .seac input:focus{
+         outline: none;
+         box-shadow: 0px 0px 10px #FCC56C;
+     }
+     .yobo{
+         background: #75B343;
+         color: white;
+         padding: 8px 0px;
+     }
+     .iyo>a{
+         color: white;
+     }
+     .iti{
+         background: #F3F3F3;
+     }
+     .itit>div{
+         display: inline-block;
+     }
+     .awon{
+         position: relative;
+         padding: 20px 40px;
+         width: fit-content;
+     }
+     .ket{
+         padding: 10px 15px;
+          height: 100px;
+     }
+     .awo{
+         text-align: center;
+         width: 100px;
+     }
+     .ket img{
+         position: absolute;
+         height: 70px;
+         transition: height 0.2s ease-in 0s;
+     }
+      .ket>img:hover{
+         height: 75px;
+          position: absolute;
+     }
+     .aye>img{
+         width: 100%;
+         height: 100%;
+     }
+     .ayee img{
+          width: 100%;
+     }
+     .thr .row li{
+         background: orange;
+     }
+     .cow{
+         width: 400px;
+     }
+     .cowe{
+         width: fit-content;
+         position: absolute;
+         display: none;
+     }
+     .dea{
+         text-align: center;
+     }
+     .got{
+         padding: 10px 0px 10px 0px;
+     }
+     .fa:hover{
+         color: #E6981A;
+     }
+      .fa-angle-left{
+         float: left;
+          font-size: 35px;
+          margin-top: 180px;
+     }
+     .fa-angle-right{
+         float: right;
+         font-size: 35px;
+         margin-top: 180px;
+     }
+     .pho{
+         padding: 0px 50px 50px 50px;
+     }
+     .tao{
+         padding: 10px;
+     }
+     .taoma{
+         padding: 9px;
+        text-align: center;
+         box-shadow: 0px 0px 5px rgb(113,111,111);
+         transition: box-shadow 0.4s;
+         border-radius: 5px;
+     }
+     .taoma:hover{
+          box-shadow: 0px 0px 15px rgb(75,74,74);
+     }
+     .roj{
+         width: fit-content;
+         padding: 15px;
+     }
+     .roj img{
+         width: 100%;
+         height: 250px;
+     }
+     .dare{
+         padding: 0px 0px 10px 0px;
+     }
+     .roje{
+         color: black;
+     }
+     .roje:hover{
+         color: #E6981A;
+     }
+     .rojo button{
+         border: none;
+         background: #E6981A;
+         border-radius: 5px;
+         padding: 5px 10px;
+     }
+     .rojo button:hover{
+          background: #dd8d0c;
+     }
+     .amidat{
+          background: #F3F3F3;
+         padding: 80px 0px 80px 0px;
+     }
+     .pius{
+         text-align: center;
+         padding-bottom: 50px;
+     }
+     .amid{
+         width: 260px;
+         box-shadow: 0px 0px 5px rgb(153,150,150);
+     }
+     .amid img{
+          width: 100%;
+     }
+     .malo{
+         display: none;
+     }
+     .ewe{
+          background: #B0D235;
+         padding: 50px;
+     }
+     .arin{
+         text-align: center;
+         padding: 0px 0px 30px 0px;
+     }
+     .uzo{
+        text-align: center; 
+     }
+     .bles{
+         padding: 0px 0px 15px 140px;
+     }
+     .fiyin{
+         width: 70px;
+     }
+     .fiyin img{
+         width:  100%;
+     }
+     .uzo p{
+         font-size: 15px;
+     }
+     .uzo button{
+         border: none;
+         background: #fbaa27;
+         padding: 5px 15px 5px 15px;
+         border-radius: 5px;
+     }
+     .uzo button:hover{
+         background: #e49a22;
+     }
+     .care{
+         padding: 0px 50px 50px 50px;
+     }
+      .care .fa-angle-left{
+         float: left;
+          font-size: 35px;
+          margin-top: 240px;
+     }
+     .care .fa-angle-right{
+         float: right;
+         font-size: 35px;
+         margin-top: 240px;
+     }
+     .tren{
+         text-align: center;
+         padding: 0px 0px 30px 0px;
+     }
+     .fada{
+         width: 355px;
+         border-bottom: 5px solid #B0D235;
+         box-shadow: 0px 0px 10px rgb(179,175,175);
+         padding: 0px 0px 30px 0px;
+     }
+     .fada img{
+         height: 210px;
+        width: 100%; 
+         padding-bottom: 15px
+     }
+      .sme{
+          padding: 0px 2px 0px 10px;
+         font-size: 17px;
+     }
+     .sma{
+         font-size: 13px;
+         padding: 0px 2px 20px 10px;
+         color: #bbb6b6;
+     }
+     .smar{
+         text-align: center;
+     }
+     .smar>button{
+        border: none;
+         background: #fbaa27;
+         padding: 10px 15px 10px 15px;
+         border-radius: 5px;
+     }
+      .smar>button:hover{
+         background: #e49a22;  
+     }
+     .ileipamo{
+         background: #B0D235;
+         padding: 30px 0px 20px 0px;
+     }
+     .jelili{
+         width: fit-content;
+     }
+     .jelili>div{
+         display: inline-block;
+     }
+     .bigi{
+         font-size: 15px;
+     }
+     .gbemi{
+         width: fit-content;
+     }
+     .bafi>div{
+         display: inline-block;
+     }
+     .bigil{
+         padding: 0px 0px 0px 30px;
+         width: 220px;
+     }
+      .bigil img{
+         width: 100%;
+     }
+     .laslas{
+         background: #F3F3F3;
+         padding: 50px 0px 15px 0px ;
+     }
+     .laslas h4{
+         padding: 0px 0px 10px 0px;
+     }
+     
+     .laslas a{
+         font-size: 14px;
+         width: fit-content;
+         text-decoration: none;
+         color: black;
+     }
+     .laslas a:hover{
+         color: green;
+     }
+     .isale{
+         padding: 0px 0px 20px 0px;
+     }
+     .isale>div{
+         display: inline-block;
+     }
+     .scoo{
+         padding: 0px 720px 0px 0px;
+     }
+     .idanimo{
+         width: 120px; 
+     }
+     .idanimo>img{
+         width: 100%;
+     }
+     .scaa{
+         width: fit-content;
+     }
+     .scaa>div{
+         display: inline-block;
+     }
+     .mede{
+         background: #a3c234;
+         padding: 10px 2px 10px 12px;
+         border-radius: 50px;
+         width: 40px;
+     }
+      .mede:hover{
+        background: #E6981A;
+     }
+      .mede>i:hover{
+        color: black;
+     }
+     .mede img{
+         width: 100%;
+     }
+     .mede>i{
+         color: white;
+         font-size: 15px;
+     }
+     .atinlo>div{
+         display: inline;
+     }
+     .kare{
+         padding: 0px 20px 0px 0px;
+     }
+     .owo>div{
+         width: fit-content;
+         display: inline-block;
+     }
+     .ikeji{
+         float: right;
+     }
+}
