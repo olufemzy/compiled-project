@@ -34,7 +34,11 @@
      .goin li{
          list-style-type: none;
          display: inline;
-         margin: 0px 2px
+         margin: 5px 2px
+     }
+     .goin .mama{
+        display: flex;
+        flex-wrap: wrap;
      }
      .goin .mama a{
          font-weight: bold;

@@ -180,12 +180,11 @@
          top: 0px;
          z-index: 1000;
      }
-     .dami>div{
-         display: inline-block;
+     .dami{
+         display: flex;
+         justify-content:space-between;
      }
-     .dami .dem{
-         padding: 0px 150px 0px 0px;
-     }
+     
      .dami .dem img{
          width: 60px;
          padding-right: 9px;

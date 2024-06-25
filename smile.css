@@ -22,7 +22,7 @@
  }
    
      .apo{
-         width: 180px;
+         width: 40%;
          height: 45px;
          padding-left: 20px;
      }
@@ -39,18 +39,23 @@
      }
      #ayomi{
         background: #f1eded;
-         width: 400px;
+         width: 4   00px;
          position: absolute;
          top: 100px;
          z-index: 5;
+         box-sizing: border-box;
     }
     .troo{
+        /* width: 200px; */
         width: 100%;
+        box-sizing: border-box;
+        display: flex !important;
+        flex-direction: row;
        background: orange;
         margin: 0px 0px 0px 0px;
     }
     .troo>div{
-        width: 200px;
+
         display: inline-block;
         text-align: center;
         padding: 20px 0px 15px 0px;
@@ -149,6 +154,14 @@
      }
     .iti{
          background: #F3F3F3;
+        
+     }
+     .itit{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
      }
      .itit>div{
          display: inline-block;
@@ -219,10 +232,16 @@
          font-size: 35px;
          margin-top: 120px;
      }
+     .lowkey>.row{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+     }
      
      .tao{
          width: 200px;
          padding: 10px;
+         margin: 5px;
      }
      .taoma{
          padding: 9px;
@@ -289,12 +308,16 @@
      }
      .uzo{
         text-align: center; 
+        margin: 0px auto;
      }
      .bles{
-         padding: 0px 160px 15px 160px;
+         /* padding: 0px 160px 15px 160px; */
+         margin: 0px auto;
+         text-align: center;
      }
      .fiyin{
          width: 70px;
+         margin: auto;
      }
      .fiyin img{
          width:  100%;
@@ -765,10 +788,13 @@
         text-align: center; 
      }
      .bles{
-         padding: 0px 0px 15px 140px;
+         /* padding: 0px 0px 15px 140px; */
+         text-align: center;
+         margin: 0px auto;
      }
      .fiyin{
          width: 70px;
+         margin: 0px auto;
      }
      .fiyin img{
          width:  100%;

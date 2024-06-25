@@ -58,11 +58,11 @@
     .gos{
         height: 230px;
         width: 80%;
-background-image: url(img/bigwoman.webp) ;
-background-repeat: no-repeat;
-background-size: cover; 
-box-shadow: -15px 15px 0px black;
-margin: 0px auto;
+        background-image: url(img/bigwoman.webp) ;
+        background-repeat: no-repeat;
+        background-size: cover; 
+        box-shadow: -15px 15px 0px black;
+        margin: 0px auto;
         outline: 1px solid black;
         padding: 0px 20px;
     }
@@ -79,6 +79,7 @@ margin: 0px auto;
  .gewe input{
     height: 50px;
      width: 100%;
+     box-sizing: border-box;
  }
     .gewe label{
         font-size: 19px;
@@ -327,7 +328,7 @@ margin: 0px auto;
          list-style-type: none;
          font-weight: bold;
      }
-/*     the yellow part */
+    /*     the yellow part */
      .dele{
          background: #FFD300;
      }
@@ -379,7 +380,10 @@ margin: 0px auto;
      }
      .ini .chee{
          margin: 0px 50px
-     }@media screen and (max-width: 900px){ 
+     }
+
+}
+     @media screen and (max-width: 900px){ 
         body{
          background: #FFF0E5;
          }
@@ -1689,7 +1693,6 @@ margin: 0px auto;
          text-align: center;
          font-size: 17px
      }
-}
  @media screen and (min-width:900px){
  body{
      background: #FFF0E5;
